@@ -39,7 +39,7 @@ node index.js
 ```
 
 ## Running tests
-Before running tests make sure that redis and mongoDb are running
+Before running tests make sure that redis and mongoDb are running, because integration tests are included
 
 Run
 ```
