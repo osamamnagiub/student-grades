@@ -7,7 +7,7 @@ services:
       - redis
     build: 
       context: ../
-      dockerfile: Dockerfile
+      dockerfile: ./docker-prod/Dockerfile
     ports: 
       - 3000:3000
     environment: 
@@ -16,7 +16,7 @@ services:
       NODE_ENV: production
       DB_URL: mongodb://db/studentGrades
       studentGrades_jwtPrivateKey: "my-very-strogn-secret-key"
-      redicConnection: "{'host': 'redis','port': '6379'}"
+      redis_url: "redis"
       smtp: > 
         {
            "smtp": {
@@ -40,8 +40,3 @@ services:
     image: mongo:4.0-xenial
     ports:
       - 27017:27017
-    volumes:
-      - studentGrades:/data/db
-
-volumes:
-  studentGrades:

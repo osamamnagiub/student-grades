@@ -1,11 +1,15 @@
 const { Queue } = require('bullmq');
 const config = require('config');
 
-const redisConnection = config.get('redisConnection')
+const redis_url = config.get('redis_url');
+
 const queueName = config.get('queueName')
 
 const grades_queue = new Queue(queueName, {
-    connection: redisConnection
+    connection: {
+        host: redis_url,
+        port: 6379
+    }
 });
 
 

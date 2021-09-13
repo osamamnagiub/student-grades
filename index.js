@@ -17,7 +17,9 @@ require('./startup/worker');
 if (!process.env.NODE_ENV)
   process.env.NODE_ENV = "development"
 
+
 const port = process.env.PORT || config.get("appPort");
+
 const server = app.listen(port, () =>
   logger.info(`Listening on port ${port}...`)
 );

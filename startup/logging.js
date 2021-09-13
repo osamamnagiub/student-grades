@@ -13,7 +13,7 @@ const logger = winston.createLogger({
         new winston.transports.Console()
     ],
     exitOnError: false,
-    silent: process.env.NODE_ENV === 'production' || process.env.NODE_ENV === 'test'
+    silent: process.env.NODE_ENV === 'test'
 });
 
 

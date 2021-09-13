@@ -4,10 +4,7 @@
     "db": "mongodb://db/studentGrades",
     "queueName": "grades-queue",
     "concurrency": 3,
-    "redisConnection": {
-        "host": "redis",
-        "port": "6379"
-    },
+    "redis_url": "redis",
     "email": {
         "from": "osama.mn@live.com"
     },
