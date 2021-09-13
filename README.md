@@ -18,6 +18,12 @@ Run
 docker compose -f .\docker-compose.dev.yml up
 ```
 
+To delete the dev the environment
+
+```
+docker compose -f .\docker-compose.dev.yml down
+```
+
 if you made any changes to the project it will reload automatically,
 the project is shared with the docker instance
 
@@ -27,7 +33,7 @@ the project is shared with the docker instance
 - Install redis 
 - Install MongoDb
 
-RUN
+Run
 ```
 node index.js
 ```
