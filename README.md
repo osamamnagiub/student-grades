@@ -1,6 +1,6 @@
 # Course Grade system
 
-A prototype for a grade system used to upload course grades and allow students to view their grades using their id, it used worker queues to handle large data efficiently
+A prototype for a grade system used to upload course grades and allow students to view their grades using their id, it uses worker queues to handle large data efficiently
 
 ## Diagram
 ![img.png](img.png)
