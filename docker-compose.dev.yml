@@ -15,7 +15,6 @@ services:
     volumes:
       - ./:/app
       - /app/node_modules  #workarounf for bcrypt lib issue due to different os platforms (docker,host)
-    command: ./docker-entrypoint.sh
 
 
   redis:
