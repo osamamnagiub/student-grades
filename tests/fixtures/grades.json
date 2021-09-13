@@ -1,0 +1,7002 @@
+[
+    {
+        "studentId": "7e841850-9881-40be-bb7a-6b70fc537ff8",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 19,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "d929015e-de5d-40b2-ad07-93e6a0cb5e51",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 37,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "0e744a63-5898-4386-96ad-06f3f0ecd654",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 12,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "abf1c622-6f48-4838-90eb-9e96cea2f0cc",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 98,
+        "score": "PASS"
+    },
+    {
+        "studentId": "9ab5b7fb-c1d3-4812-8517-043a4963e652",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 51,
+        "score": "PASS"
+    },
+    {
+        "studentId": "d2d2c30a-b173-4592-89eb-abc05e6166f0",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 81,
+        "score": "PASS"
+    },
+    {
+        "studentId": "e9946792-bd2b-4306-8c12-390baf6577a7",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 46,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "842fbb94-8bf6-4935-a802-954ed6badc8e",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 100,
+        "score": "PASS"
+    },
+    {
+        "studentId": "22c7140f-832f-4658-9a4a-a1e59b92e296",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 28,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "b44e80b9-a193-46b1-adb8-6fb903d56843",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 89,
+        "score": "PASS"
+    },
+    {
+        "studentId": "5d54b41d-e04e-403d-a2c2-6d46de0b0e63",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 81,
+        "score": "PASS"
+    },
+    {
+        "studentId": "a390ba97-d103-4667-8f32-a64ee4b14514",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 88,
+        "score": "PASS"
+    },
+    {
+        "studentId": "ba1988e4-2f10-4e51-9aa8-1c5962af12c4",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 90,
+        "score": "PASS"
+    },
+    {
+        "studentId": "a63d2993-9b3c-4216-9a00-3be64bee0b13",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 53,
+        "score": "PASS"
+    },
+    {
+        "studentId": "01370c8a-78e6-48a8-850c-d65e30cf5f51",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 7,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "58cbe1de-45a0-4208-9362-fc6d2b2f678e",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 25,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "4f64641d-9b71-445c-a249-5e829f50c733",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 92,
+        "score": "PASS"
+    },
+    {
+        "studentId": "4aa96598-2518-4711-92ea-e45a8ccb2c66",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 1,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "bbb8626e-bf90-486c-964b-451785d4c03c",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 53,
+        "score": "PASS"
+    },
+    {
+        "studentId": "9a7c984e-c5d2-470b-866d-8eaa4a6aa063",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 37,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "810c671a-cc0e-43bb-ade8-518d64bbfe43",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 100,
+        "score": "PASS"
+    },
+    {
+        "studentId": "4f5ca96d-60f0-4b82-a0d7-e1923b6087ce",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 52,
+        "score": "PASS"
+    },
+    {
+        "studentId": "063792f9-f9bb-4e10-9c19-1aef41f1cd31",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 37,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "aad404ab-0f6f-46c9-9ad1-0059f493a361",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 6,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "1a32e3aa-2bed-49ce-8db7-a988bb694bfc",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 69,
+        "score": "PASS"
+    },
+    {
+        "studentId": "03592724-67a9-4c37-9767-f9841f1b2d8a",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 37,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "eda2b285-31e7-43b2-b295-78415b5ad24f",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 30,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "1ee8806e-111d-4baa-8d04-1326ce94c05f",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 50,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "9003fdb0-fa8d-4fc6-9529-0cd9beccd60c",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 43,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "2fe7a6b5-c743-43b2-ad98-20b59d7b0dda",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 12,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "b4dd4e60-a2db-48b6-a404-1788e4e33788",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 91,
+        "score": "PASS"
+    },
+    {
+        "studentId": "5e879f1b-f50d-4ca8-b55d-16256ac4dacb",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 49,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "1e854f6e-d9ce-4307-a7a0-d24a59c495e7",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 62,
+        "score": "PASS"
+    },
+    {
+        "studentId": "50965025-98e8-456a-9ff2-5b58b07348c3",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 6,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "246b8f55-f9e6-427f-8c39-d6ed1105c4c8",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 73,
+        "score": "PASS"
+    },
+    {
+        "studentId": "54f7abf1-838c-4bc3-91c4-dab0bac7efee",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 61,
+        "score": "PASS"
+    },
+    {
+        "studentId": "0d67b744-c612-449a-975d-d7607e79093f",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 66,
+        "score": "PASS"
+    },
+    {
+        "studentId": "1fdc68ff-d382-4cbf-b492-1339ff1cc105",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 49,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "6a16ff3c-a5da-4d79-b386-2dcc015571f0",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 82,
+        "score": "PASS"
+    },
+    {
+        "studentId": "d143bf86-5f36-4def-9b7f-48597bf1b579",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 68,
+        "score": "PASS"
+    },
+    {
+        "studentId": "a6710bc6-d1a6-4782-accf-646e54ec0a53",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 10,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "9111bdff-f9f7-4436-a83e-e00615e8c2bf",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 54,
+        "score": "PASS"
+    },
+    {
+        "studentId": "edd3279f-3a3d-499b-9c59-6b551ca67042",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 60,
+        "score": "PASS"
+    },
+    {
+        "studentId": "79234407-5e9f-4f57-a3f4-3a0005c6657e",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 54,
+        "score": "PASS"
+    },
+    {
+        "studentId": "dfc3e130-2b68-499b-8f4e-7e719b169fc9",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 8,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "eec22afc-d13b-4fa5-9c79-222cfb2a6dd7",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 100,
+        "score": "PASS"
+    },
+    {
+        "studentId": "57e20d5b-c0d1-4eb8-b72e-36fb4e413226",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 52,
+        "score": "PASS"
+    },
+    {
+        "studentId": "e962c6e8-0d28-49e9-8f7c-8f1a58a56c43",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 23,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "b88a154f-d9f6-4493-80bc-5f4cb4a8c090",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 100,
+        "score": "PASS"
+    },
+    {
+        "studentId": "fa808b8c-3ed7-4a00-a95d-18430f2b6692",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 53,
+        "score": "PASS"
+    },
+    {
+        "studentId": "d29b2cfa-34f8-4ce8-9e0f-e83b45a7144f",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 47,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "717c005e-a087-4f1c-bbc1-3688a54638d1",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 38,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "35f2f7c1-9c64-4c3c-9da3-d36ab630a2a2",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 23,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "8b0daded-2c91-4146-a24a-71592027653f",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 73,
+        "score": "PASS"
+    },
+    {
+        "studentId": "a578b6d9-2109-4b71-b322-27c859b0596e",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 54,
+        "score": "PASS"
+    },
+    {
+        "studentId": "0f110f60-3340-40f8-8cd7-4ab42ed431f4",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 65,
+        "score": "PASS"
+    },
+    {
+        "studentId": "a0b4f69d-68f4-433e-81d2-cbd7818ef7fc",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 98,
+        "score": "PASS"
+    },
+    {
+        "studentId": "e483de30-a101-4242-a1ac-6d22b5745537",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 8,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "172f80f7-e86d-4c30-874c-3165dc89abb2",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 43,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "840889a1-c965-4162-a459-ec2bee39a83c",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 96,
+        "score": "PASS"
+    },
+    {
+        "studentId": "3e65dcac-3491-4410-af6f-b16b37ee9136",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 43,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "9710a1f8-db5d-4f24-a8c8-2f52c9da1f7e",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 58,
+        "score": "PASS"
+    },
+    {
+        "studentId": "1cfe8f64-c09a-43c4-8156-a013f3b7404f",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 73,
+        "score": "PASS"
+    },
+    {
+        "studentId": "81618809-a11d-40b7-8432-8b24fe329717",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 36,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "3f09b992-8a2e-4e45-8761-2f2a1a37b1eb",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 55,
+        "score": "PASS"
+    },
+    {
+        "studentId": "4802ceb4-ed45-4e1b-95c6-06bc96e840ae",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 2,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "0a95fb29-d564-4779-aafe-a689e6434733",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 17,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "fa553210-0844-464f-bb91-18945b52eef3",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 91,
+        "score": "PASS"
+    },
+    {
+        "studentId": "d35979b9-3d08-4721-91ef-1cbd3a57d950",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 93,
+        "score": "PASS"
+    },
+    {
+        "studentId": "2c83ad7c-2eb8-4278-b420-a664c09c7d60",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 38,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "9fe3c090-bd42-4dec-bc09-06b185246f8d",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 33,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "b1207ac6-322a-4519-9825-a0e77b371c38",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 7,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "c39a7a2b-3525-4df1-8540-94ed4f08c7f9",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 61,
+        "score": "PASS"
+    },
+    {
+        "studentId": "25b379a5-d9c6-40b5-8217-e71d5911e652",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 34,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "434ed1ed-337b-471d-8f6a-afcb304e8c3c",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 65,
+        "score": "PASS"
+    },
+    {
+        "studentId": "40f0b66c-1230-4c91-a496-c054de91e6d3",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 89,
+        "score": "PASS"
+    },
+    {
+        "studentId": "c5209265-6ce3-4d8f-a5a0-5ffaebab2e3e",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 47,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "388cd309-18b1-4054-9a72-40b404ee091e",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 4,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "fa63d2d1-49ef-43f6-a1d1-bc49495001c7",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 2,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "41f24039-9786-4499-9441-89d1901b545a",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 44,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "8fc63a5f-9eb3-44cb-9926-1fb7a9ca154a",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 46,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "11ab3e7c-a17c-4273-8b18-cff871128103",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 38,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "e684c34d-b2c4-41cc-a7b1-298250259c71",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 82,
+        "score": "PASS"
+    },
+    {
+        "studentId": "c180af8c-484d-49e2-ab15-ddb0c1d72cef",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 92,
+        "score": "PASS"
+    },
+    {
+        "studentId": "2cea954b-c091-47f3-ab5e-3a3c7f60fa0f",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 21,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "a727a509-492d-4264-81dd-188a652c92cd",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 89,
+        "score": "PASS"
+    },
+    {
+        "studentId": "a975f6c1-3351-433a-8124-9db3d21e7d33",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 40,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "f43469de-1bc6-4e83-85f5-b075d425c157",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 10,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "806d015a-3e83-427c-864c-90fe834ff821",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 23,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "b6f561e7-0726-4b2f-917c-6da6ede70bd6",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 93,
+        "score": "PASS"
+    },
+    {
+        "studentId": "586be38b-79d8-4e4c-9fb5-6cb77c0de1aa",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 24,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "34b2ef1f-791e-4b51-88b8-422a8c9830f5",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 65,
+        "score": "PASS"
+    },
+    {
+        "studentId": "84c4960b-1dfa-4489-a8d1-947a92c37546",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 15,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "24033592-a37d-4daf-a144-6a3353de2595",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 35,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "b30e8b32-c234-4b92-8a03-0f70c62a2d44",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 36,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "ed107470-1c26-4e09-9164-42cbe188f67d",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 34,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "5d5e1a82-43ef-49be-b620-3a8ff2ca1869",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 87,
+        "score": "PASS"
+    },
+    {
+        "studentId": "1f46814f-9b44-40ae-beda-00517c2753b9",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 31,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "a8abaf11-9918-486f-8fb4-a0773de2766c",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 17,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "a7c2df39-b2a4-4cc4-a8d2-7e3a54dccbb0",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 79,
+        "score": "PASS"
+    },
+    {
+        "studentId": "8b035b2f-8daa-49e9-9c25-5f9ca00e1c93",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 70,
+        "score": "PASS"
+    },
+    {
+        "studentId": "d8c17b70-0719-4f05-bbd3-2a3ab6ea9904",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 89,
+        "score": "PASS"
+    },
+    {
+        "studentId": "017f8c09-adf2-432b-a298-4d4b6e9c82bf",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 21,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "cc657f37-0356-4123-85bf-f677d4dbb36d",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 28,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "7210efa3-2371-4170-a926-7fa490dbf60f",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 27,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "7c85322f-7bd3-47b2-bcf0-7bf709b5e637",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 32,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "306c7e67-e29b-42a5-86ef-517b332f6144",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 4,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "a30a827d-73c7-42c9-922a-50dc42f47ac5",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 99,
+        "score": "PASS"
+    },
+    {
+        "studentId": "7311bbb0-475f-4928-a03d-e756b9111372",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 18,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "cd734f1a-7970-454e-a0cc-69c16a03456b",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 80,
+        "score": "PASS"
+    },
+    {
+        "studentId": "cf704415-a6da-48d6-ad38-13bc4705940b",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 8,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "2db94bf7-74f3-4582-a396-c09c26b5cffa",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 100,
+        "score": "PASS"
+    },
+    {
+        "studentId": "03c666f1-67c2-49cd-a40d-a1ce96820c46",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 81,
+        "score": "PASS"
+    },
+    {
+        "studentId": "a634ba6f-e275-4098-97a8-ff54d2d18409",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 60,
+        "score": "PASS"
+    },
+    {
+        "studentId": "ccbe8573-34ad-4889-b682-9001a6463b7d",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 40,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "ab7f7c2e-aa3d-495f-8cb5-32d257ad6a54",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 30,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "acbf3d7b-33d1-46e5-9794-44163e96b4b1",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 3,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "25fee2e6-2984-4f32-9e45-7cf1e82c5079",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 7,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "036aee9b-6f15-451b-bc66-9272ec6fcaa6",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 68,
+        "score": "PASS"
+    },
+    {
+        "studentId": "fa6fe3e4-3b2a-493b-b41f-e62f804ca646",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 96,
+        "score": "PASS"
+    },
+    {
+        "studentId": "97b914ad-5db6-4afb-9b17-fde1054440f5",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 87,
+        "score": "PASS"
+    },
+    {
+        "studentId": "c6dda16f-9d34-4518-a632-4b02954f4b5b",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 29,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "603c073b-2e09-4962-b1a5-9c58ed441233",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 6,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "dab5d979-95fe-4853-af6a-3d3d1d3fe084",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 57,
+        "score": "PASS"
+    },
+    {
+        "studentId": "7beb7eed-2a12-4db6-8dd3-1d131235ff11",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 23,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "dd00454b-e8c9-4e05-b549-16cf98c42ec4",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 77,
+        "score": "PASS"
+    },
+    {
+        "studentId": "c78290e1-9857-4370-8697-9813b4db94ed",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 48,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "bc568a0c-9988-4134-aabe-523dbce260dd",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 73,
+        "score": "PASS"
+    },
+    {
+        "studentId": "858daa31-a851-426c-9a55-66983529509f",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 65,
+        "score": "PASS"
+    },
+    {
+        "studentId": "46ced4be-4a3f-4b36-8e6d-ccbc4c02bef0",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 48,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "964ba691-2960-4e6f-a0f3-085eb33b04fc",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 28,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "b742e482-6891-414b-aa6d-4b2b655b9186",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 20,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "5d839f16-9d19-4c8b-83d5-ed5f47934270",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 20,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "e2221520-b270-4a80-b2e8-bbd729b26177",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 58,
+        "score": "PASS"
+    },
+    {
+        "studentId": "f222723e-4062-435c-adcd-792f295bde60",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 55,
+        "score": "PASS"
+    },
+    {
+        "studentId": "cfe18b97-7254-49f1-8ce7-8be2515fab39",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 13,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "35ccb53e-6740-4eb0-994a-7b1f6b507c5e",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 5,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "fd0e6695-c9cf-4e0b-b8a8-80c1ff621912",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 25,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "d87a4570-541b-4765-8f0f-e6f061ca3813",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 86,
+        "score": "PASS"
+    },
+    {
+        "studentId": "dae0d8b5-56ce-4f01-a6a6-68d8417d4020",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 6,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "a8380b45-0bc4-4468-8fb4-36b6b44d3059",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 82,
+        "score": "PASS"
+    },
+    {
+        "studentId": "3534bb30-25dd-4063-92a1-e966463293b0",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 34,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "9aeebb2e-f040-4c3d-b5ad-b63a905782b5",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 32,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "90da0304-b896-4762-b213-21dd2e1776f5",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 83,
+        "score": "PASS"
+    },
+    {
+        "studentId": "aaf71e53-83a3-4fb5-ba94-3ac7fe397504",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 95,
+        "score": "PASS"
+    },
+    {
+        "studentId": "7b017452-eb9f-482f-971f-f04ee62a100c",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 18,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "08dbeee0-f8fa-4cc8-9692-8131ea8ab754",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 1,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "2cb130f1-b90d-4835-b158-015f31a829c9",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 66,
+        "score": "PASS"
+    },
+    {
+        "studentId": "5da90983-fd6d-461e-9257-b95f1f780ef9",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 6,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "a6dd55a2-167a-4d4a-956f-7809f7089a8e",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 94,
+        "score": "PASS"
+    },
+    {
+        "studentId": "018b321d-cbb7-4776-a9fc-6b1e8a04c190",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 65,
+        "score": "PASS"
+    },
+    {
+        "studentId": "26180057-5e88-43f7-b7d2-5d24f4981343",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 8,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "147892b4-d7f0-462c-bad1-934f23c07361",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 64,
+        "score": "PASS"
+    },
+    {
+        "studentId": "4edfb1a0-61b2-43eb-8bb4-359d2e523269",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 81,
+        "score": "PASS"
+    },
+    {
+        "studentId": "43e76ecf-aeff-423f-968a-bc7c9ed25b24",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 51,
+        "score": "PASS"
+    },
+    {
+        "studentId": "12b3a812-8a7d-4045-89cc-398e2fb44bc3",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 3,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "2705bb52-0388-44b5-bc00-921aa7faee17",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 20,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "ab8172e6-e151-4876-80a2-e3dfab566a8d",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 53,
+        "score": "PASS"
+    },
+    {
+        "studentId": "a41eb100-95ee-4676-8249-06918609bc72",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 89,
+        "score": "PASS"
+    },
+    {
+        "studentId": "0f0dd775-b2dd-498b-bb3f-7fee6cbcf638",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 45,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "28e595e3-abbf-4320-8f8d-d5a51c2df68b",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 63,
+        "score": "PASS"
+    },
+    {
+        "studentId": "d01dde58-fc3f-4cb9-9d6f-03f9559d0f4f",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 50,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "9d13d500-38f5-4459-aeeb-bc22ed364baf",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 25,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "04b4ac3f-2719-47db-b2c0-f24ba141abc1",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 95,
+        "score": "PASS"
+    },
+    {
+        "studentId": "f4b7067c-ca63-40c3-b7b0-8f96036203dd",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 63,
+        "score": "PASS"
+    },
+    {
+        "studentId": "c7e54618-a516-46b6-95ee-08371c162a4f",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 8,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "a385d809-1862-4f3a-ad48-05cfdb41ab4a",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 48,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "87a5dfe2-d06c-495a-b89f-0437ca98b0fd",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 50,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "96c7ab4f-6ea7-4cc2-897e-d837cfe86e1d",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 34,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "ffa85ad6-9ccf-4ca7-b25d-de62239f0b85",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 91,
+        "score": "PASS"
+    },
+    {
+        "studentId": "a589374f-1cfd-4a7b-a4f1-b069a8093a41",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 95,
+        "score": "PASS"
+    },
+    {
+        "studentId": "8d531dc3-849e-4a0a-8f8d-46037856ffc4",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 25,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "15d13f54-d138-4619-88cc-bd3ebadb0eff",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 83,
+        "score": "PASS"
+    },
+    {
+        "studentId": "cd9e0ceb-0cec-4030-aa9f-80001e3887e2",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 86,
+        "score": "PASS"
+    },
+    {
+        "studentId": "3898eefe-0a40-4333-95ff-a95d57406880",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 92,
+        "score": "PASS"
+    },
+    {
+        "studentId": "47693eb5-42db-491f-9082-7cae4379ec56",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 31,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "db79e264-d620-4e0a-8300-ccfaf92a3d4a",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 48,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "d143b2a3-ac2d-41bb-98b3-c4b477bfc994",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 68,
+        "score": "PASS"
+    },
+    {
+        "studentId": "e60bfee5-c643-4dde-83ef-a16672871ca6",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 3,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "623c7a00-b452-4659-b5aa-ff023dcbfdfd",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 70,
+        "score": "PASS"
+    },
+    {
+        "studentId": "aadc4701-1c8a-4aca-9f6d-e7a22e562cba",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 18,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "db990536-1a8a-4730-a814-b185c62633e4",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 48,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "e027b448-8e7c-4441-acc1-c491dc8de62e",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 33,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "f807029a-186a-4e2e-8882-6ff2b18ed4ec",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 11,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "cb31a390-5116-4e7f-94a8-463e980dabec",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 46,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "1168fdcc-d7a6-4485-9726-16ead06d0c64",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 93,
+        "score": "PASS"
+    },
+    {
+        "studentId": "53286c85-4494-4554-8f05-4ec537ba3d33",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 58,
+        "score": "PASS"
+    },
+    {
+        "studentId": "37786aeb-f4d4-4db9-ae13-c4de823e9e96",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 69,
+        "score": "PASS"
+    },
+    {
+        "studentId": "b54b9445-0126-467e-aa08-5bdd7c1c8d53",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 58,
+        "score": "PASS"
+    },
+    {
+        "studentId": "ab2f4e57-24eb-4d34-ade7-3ecc7f04e444",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 64,
+        "score": "PASS"
+    },
+    {
+        "studentId": "fd9b7d74-94bf-4bc6-81e4-4eb4730a0ed8",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 27,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "6988fc85-efc5-4eb9-8815-8f0ff6b70b25",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 86,
+        "score": "PASS"
+    },
+    {
+        "studentId": "98d9fb67-5d2f-4650-87f9-b12b3eea9461",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 45,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "44b5a6d4-2c88-4f4f-98ff-8a5a2cdd58ac",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 36,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "1b83a7c5-b39e-420c-be1d-bdadd3ddb6c5",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 99,
+        "score": "PASS"
+    },
+    {
+        "studentId": "755388f9-5acf-4a35-8d86-faf74f7942a1",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 68,
+        "score": "PASS"
+    },
+    {
+        "studentId": "6195cd44-5d2d-4556-869b-e63024f80b00",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 74,
+        "score": "PASS"
+    },
+    {
+        "studentId": "66abf108-29b5-416a-94da-03c7797084e0",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 65,
+        "score": "PASS"
+    },
+    {
+        "studentId": "ded2a7e4-d7c5-4ebb-9e2a-c92cf4605bd4",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 59,
+        "score": "PASS"
+    },
+    {
+        "studentId": "e07174a0-3e5c-4208-b02c-526496e8012d",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 52,
+        "score": "PASS"
+    },
+    {
+        "studentId": "2dfc848b-6bac-4b4c-b30b-c2b192393f6c",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 70,
+        "score": "PASS"
+    },
+    {
+        "studentId": "d158255b-f61d-4d77-ab1d-d42778ce0099",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 66,
+        "score": "PASS"
+    },
+    {
+        "studentId": "4cf7193d-4c7c-4b9c-b44a-86963d360419",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 74,
+        "score": "PASS"
+    },
+    {
+        "studentId": "c3bee5f4-4eca-4a69-a3db-0f945139c025",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 69,
+        "score": "PASS"
+    },
+    {
+        "studentId": "cc15fbd3-e49c-46aa-8e0f-3af05636de63",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 13,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "bd65896c-42ac-4eb5-973c-675cb86089cb",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 5,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "ed652a81-f944-41d3-ae3c-039c433430dc",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 71,
+        "score": "PASS"
+    },
+    {
+        "studentId": "c16d72b0-96b7-452a-8ecc-b5fc4efca1b9",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 39,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "3ea9525d-3e79-4087-af62-f0bf54a06bc1",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 43,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "5afd7d4b-22dd-47bd-b970-fce7b37f04b8",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 12,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "61560563-0f15-4e20-850b-36baadbb628e",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 45,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "d67d5fea-6124-4e96-969d-aaad6fb35408",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 31,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "4499c6c1-78bc-408f-9abc-c74c06afb375",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 1,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "41b310ec-1337-4981-9a71-8ce457e9abfb",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 80,
+        "score": "PASS"
+    },
+    {
+        "studentId": "55c377d1-0656-402e-b214-5fe69297c76f",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 57,
+        "score": "PASS"
+    },
+    {
+        "studentId": "eeca1a81-c2c8-4192-82fb-a63bfcd13e51",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 67,
+        "score": "PASS"
+    },
+    {
+        "studentId": "616eccb1-222f-4823-a507-c14a90f640bd",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 96,
+        "score": "PASS"
+    },
+    {
+        "studentId": "3928d32a-ffb2-4944-8d74-8d1dbc0c0d8d",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 87,
+        "score": "PASS"
+    },
+    {
+        "studentId": "a6373258-d3d9-49b5-923c-cd57441a20cd",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 79,
+        "score": "PASS"
+    },
+    {
+        "studentId": "312d0846-6c93-4b1c-aa63-6c5be5362164",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 17,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "3f2a9109-06d1-488c-b861-0fd70b6c2ed6",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 21,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "f298cf0e-8fb7-422c-afb9-8954d551dac1",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 70,
+        "score": "PASS"
+    },
+    {
+        "studentId": "9604e469-3b81-44ce-b012-50889b5b3e06",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 30,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "f26a7868-9e19-4ff7-8654-088c81ea232c",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 29,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "efe71680-7632-40e1-a915-35994d2586f6",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 52,
+        "score": "PASS"
+    },
+    {
+        "studentId": "69017e4b-df9b-40d4-b156-a4d391663854",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 91,
+        "score": "PASS"
+    },
+    {
+        "studentId": "6333b9fa-12f6-4111-8118-75e108b52efe",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 79,
+        "score": "PASS"
+    },
+    {
+        "studentId": "5a1008c8-6dc0-4a5b-851e-b11f4ba111f3",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 56,
+        "score": "PASS"
+    },
+    {
+        "studentId": "907b4cfe-3b69-488e-9e67-24fd932287b9",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 79,
+        "score": "PASS"
+    },
+    {
+        "studentId": "1637af1b-517e-463e-a947-5fdbd9028a2e",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 34,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "1344c93b-f42e-4e93-90fe-98d6542a8321",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 25,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "4410a05d-9ccb-41e5-843f-3e4568004a10",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 57,
+        "score": "PASS"
+    },
+    {
+        "studentId": "544b215f-1f6e-4627-b2d3-eb01b480abc7",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 54,
+        "score": "PASS"
+    },
+    {
+        "studentId": "18cbcbb3-438b-448e-87c1-786a30f0ccae",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 86,
+        "score": "PASS"
+    },
+    {
+        "studentId": "7ba0280a-cdae-465f-803d-71d428776953",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 27,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "3eb34662-1aa5-4079-9607-196499cb1227",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 28,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "136c0c6c-334d-4ee0-802f-1a2bcb9dfd98",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 13,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "71572bf7-bd49-4f31-b2db-328aa372e97b",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 99,
+        "score": "PASS"
+    },
+    {
+        "studentId": "39170e83-1a00-45e3-8820-846bd2c45a3c",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 81,
+        "score": "PASS"
+    },
+    {
+        "studentId": "f88c729e-fc22-4311-8602-9ae8a0484b87",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 61,
+        "score": "PASS"
+    },
+    {
+        "studentId": "26d695ad-9dcd-47b4-b478-3080a35ec695",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 73,
+        "score": "PASS"
+    },
+    {
+        "studentId": "b87354ce-fbf5-4540-9539-aff51953b9c2",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 47,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "a8da79f9-71c9-42be-9bf5-b6b8d1ac383e",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 46,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "4e9543df-03c3-45fc-98c4-1a23273fa16f",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 77,
+        "score": "PASS"
+    },
+    {
+        "studentId": "700ea6b4-b523-4c6f-8e04-0e8222abaa08",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 26,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "9d02c0b6-2c29-4317-aec8-d094ec054b0a",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 21,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "f6b0922b-41a4-4f5d-9082-a79700f040c3",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 43,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "1314504b-1d1e-47ec-8192-1064ac8616b3",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 73,
+        "score": "PASS"
+    },
+    {
+        "studentId": "28e9a2e5-2bf0-4b55-aed2-b1f09514dabb",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 82,
+        "score": "PASS"
+    },
+    {
+        "studentId": "a4561377-3196-46db-8433-a6c70e341554",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 56,
+        "score": "PASS"
+    },
+    {
+        "studentId": "c3f0d039-1723-4d0a-90e2-6c9973ebffd2",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 79,
+        "score": "PASS"
+    },
+    {
+        "studentId": "065d35b9-05a8-4c1e-8f13-c2da3b140d89",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 42,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "0e51362b-ef4b-4ba0-9df9-a843fd7dde79",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 3,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "ebfaa10e-21fe-4da2-9631-1d45ae86774a",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 48,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "dbbabc18-4a2f-4dd2-a048-9617cfe752ff",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 80,
+        "score": "PASS"
+    },
+    {
+        "studentId": "4ccf9982-a8ff-4d4c-9422-a22be4efeb15",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 100,
+        "score": "PASS"
+    },
+    {
+        "studentId": "07bc79d9-8426-4db9-bfe4-65726350db19",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 69,
+        "score": "PASS"
+    },
+    {
+        "studentId": "9530dc99-db0d-4007-af5f-45db95ef870d",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 36,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "b9a8b9d4-c022-41d6-b856-433f3e926aa4",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 49,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "fa4857de-42dc-4438-920a-f6d6a2817bee",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 48,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "0fbf1cc7-7c33-4d34-ad74-3d1dde53fcc2",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 94,
+        "score": "PASS"
+    },
+    {
+        "studentId": "c59623d6-41f5-4f09-8c42-ecd416d31161",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 47,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "1ba7c6fe-0a14-4978-b755-59c54335908c",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 45,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "f44d1368-1377-4323-9664-dd02e1f3e610",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 96,
+        "score": "PASS"
+    },
+    {
+        "studentId": "ac07540b-9e24-401f-8de2-7a3c6ee6ca9d",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 76,
+        "score": "PASS"
+    },
+    {
+        "studentId": "6d0eaab0-83ef-4776-84b0-63c9040d5115",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 87,
+        "score": "PASS"
+    },
+    {
+        "studentId": "638df435-f971-463f-9176-6000222c737b",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 76,
+        "score": "PASS"
+    },
+    {
+        "studentId": "85e1ff9e-378c-4f30-8f25-f6617b6312f0",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 11,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "f02063c6-9449-4bcc-8531-313209954532",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 62,
+        "score": "PASS"
+    },
+    {
+        "studentId": "a3ad07fe-b315-4fdc-97b9-537f98bfa394",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 75,
+        "score": "PASS"
+    },
+    {
+        "studentId": "a89444a2-2de4-4eba-95df-10256c2b9fe5",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 54,
+        "score": "PASS"
+    },
+    {
+        "studentId": "8be727dd-6f55-4f0c-a36a-348cf010a767",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 74,
+        "score": "PASS"
+    },
+    {
+        "studentId": "9cd563bd-5c01-407c-b2fd-1196d215d329",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 55,
+        "score": "PASS"
+    },
+    {
+        "studentId": "476177cc-7a72-408b-a8d2-2b992d7ee3e2",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 80,
+        "score": "PASS"
+    },
+    {
+        "studentId": "12e9baac-519e-4375-af97-77a16daaefcb",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 5,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "127ccdae-7214-4df0-80e3-c4a6d11dbd63",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 73,
+        "score": "PASS"
+    },
+    {
+        "studentId": "44495537-deb6-401f-a950-d5135bb42877",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 65,
+        "score": "PASS"
+    },
+    {
+        "studentId": "2717e23f-d5ad-40ed-b81c-18893b815c1d",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 27,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "c17bb9c3-a176-4264-b41e-b49e37fa88c8",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 56,
+        "score": "PASS"
+    },
+    {
+        "studentId": "c21abef6-e22b-4404-ac66-244903a2da78",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 50,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "6f383e51-1a85-40c5-98d7-21d2381cdd7a",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 36,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "8648d933-4fc9-4505-a5c9-340c3197aadf",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 79,
+        "score": "PASS"
+    },
+    {
+        "studentId": "591315b3-051f-4159-8c29-1d1c364f2544",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 17,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "4d17d6ca-ae16-472c-9b3c-17bd1ca21298",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 46,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "1dd7f7b9-0f19-40e8-8f95-da72b268ccd2",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 95,
+        "score": "PASS"
+    },
+    {
+        "studentId": "c012e004-7cd9-48d5-9c39-172fbf9681f2",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 23,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "40d200e0-9acd-4ed6-b827-a6c130103000",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 18,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "a04e141c-360b-40ea-bce8-43988f499def",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 93,
+        "score": "PASS"
+    },
+    {
+        "studentId": "d12142e9-49d4-401d-9469-5707cc5455da",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 54,
+        "score": "PASS"
+    },
+    {
+        "studentId": "cd846894-13a6-4117-a7bb-47d11865785d",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 12,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "2ea2db94-c56f-4764-9aa5-189293c946e8",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 83,
+        "score": "PASS"
+    },
+    {
+        "studentId": "6f639e22-1d5e-47d5-aeef-79f52229276a",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 71,
+        "score": "PASS"
+    },
+    {
+        "studentId": "e4c2456f-2135-44d7-8526-5360d8044e39",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 48,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "2f8e5830-1424-47d1-b883-a21891151bf7",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 3,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "75ce38ec-de18-4068-b56a-b4135a2561b9",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 44,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "c3683f77-c2a0-4fa9-8029-d4a9782c7a5e",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 37,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "88152850-d1d6-4a15-a89e-f8820851a13d",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 81,
+        "score": "PASS"
+    },
+    {
+        "studentId": "5da77698-a577-43e6-93e7-4c2bde724993",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 95,
+        "score": "PASS"
+    },
+    {
+        "studentId": "6c19dd1b-862b-4f9b-b1f8-0875379231a6",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 16,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "9ced72c0-d1a7-4acd-91d0-465a876dad6f",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 53,
+        "score": "PASS"
+    },
+    {
+        "studentId": "4f94bfa0-ae15-49cf-b478-549fe09a4bf6",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 25,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "4c749439-5b4e-4d71-b243-748c31ed88eb",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 28,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "14311a1c-9e4f-4b97-83b5-171c4d15a46c",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 77,
+        "score": "PASS"
+    },
+    {
+        "studentId": "af411a29-1ad0-409e-af61-a38587f2bd96",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 50,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "37d61f03-4699-4100-ae0b-cc06035d47be",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 83,
+        "score": "PASS"
+    },
+    {
+        "studentId": "876c6bb9-4061-4782-8b15-25b5e59b2f4f",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 79,
+        "score": "PASS"
+    },
+    {
+        "studentId": "bc6fffc8-3235-4159-8cab-970f25cdc29a",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 17,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "ea042b12-c403-4455-94f3-2a2b367ab8e1",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 65,
+        "score": "PASS"
+    },
+    {
+        "studentId": "0c06c541-a92e-4bb2-8b38-29acefb4b5ed",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 37,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "a679291a-cf1c-497b-ab78-a0a2448c450b",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 71,
+        "score": "PASS"
+    },
+    {
+        "studentId": "328a0068-57fa-479b-a120-958a5805f90b",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 47,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "10a0476a-833a-4b02-9802-5788706e6435",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 88,
+        "score": "PASS"
+    },
+    {
+        "studentId": "ca188fc2-1ca1-4608-a325-24a0531341ff",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 26,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "56949a3e-b1c0-48cb-82f1-65bed1ac0217",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 67,
+        "score": "PASS"
+    },
+    {
+        "studentId": "0dfc95b2-f24a-4bf3-b390-0f22c0cbc735",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 69,
+        "score": "PASS"
+    },
+    {
+        "studentId": "09ecdfd8-9777-4532-b428-4b71b7055a0d",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 19,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "40e29198-0bb7-4f6a-bc12-0f215d056f46",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 21,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "7fcb15a9-e0cb-4d35-9df6-272d57eac621",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 2,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "3913f053-3ec9-450c-adbd-35b2a7fd3d5d",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 5,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "3d27cd66-a7d5-4abb-9b8d-66d1d832f6db",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 98,
+        "score": "PASS"
+    },
+    {
+        "studentId": "3d5b7006-b2ad-42be-ae8b-535b183eac3c",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 70,
+        "score": "PASS"
+    },
+    {
+        "studentId": "3f8b2eeb-b23e-424d-afa2-807a8387f6d5",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 95,
+        "score": "PASS"
+    },
+    {
+        "studentId": "09201f37-c75f-423b-be3c-8effcae562a0",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 93,
+        "score": "PASS"
+    },
+    {
+        "studentId": "5f772473-0cee-4723-b114-96c44d6fc454",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 59,
+        "score": "PASS"
+    },
+    {
+        "studentId": "682a8097-bb93-4ee4-9cdb-1e1ad4d8eb2c",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 66,
+        "score": "PASS"
+    },
+    {
+        "studentId": "7382358d-13db-4458-8b91-f07d1848cd7d",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 96,
+        "score": "PASS"
+    },
+    {
+        "studentId": "a515ab40-d037-45e9-852d-5d8d3f2bab1b",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 12,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "07d3e4e1-4593-4f41-ae31-ca766ec052b7",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 31,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "82ef3bdc-a5ef-45fb-9d1c-aba8d3c5bdbc",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 1,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "02239453-ba9e-43c4-be94-ec2bf8b6b950",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 5,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "59fca96f-30f6-4992-b7db-ad5ed7edab57",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 29,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "acc1f370-32ea-4560-8fe4-9d9677801f05",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 13,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "4283b671-5d35-4901-96c3-d31249132547",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 99,
+        "score": "PASS"
+    },
+    {
+        "studentId": "a676a279-6cb0-4108-bd39-a8ab2df9bb45",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 30,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "8fba7a98-bdb2-4572-baa9-5ab56bbd08db",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 45,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "cc877967-676c-40a6-87f0-437497ea82fa",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 93,
+        "score": "PASS"
+    },
+    {
+        "studentId": "5c61b41b-5b4f-47e8-89b7-9d6a67f8888f",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 13,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "0ba461d5-197a-406c-9f97-341fb85ed006",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 37,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "f2176b1e-a12d-489a-8d8b-4c980104793b",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 52,
+        "score": "PASS"
+    },
+    {
+        "studentId": "c6fa9bd0-a61d-4dcd-9808-08b400003ed4",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 15,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "1c562093-acc4-4f8c-8893-7cfc1eccfb0b",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 84,
+        "score": "PASS"
+    },
+    {
+        "studentId": "4927614e-4508-415f-b54b-a35145235808",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 13,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "e248c562-6392-45db-aba3-b1d09849a3ca",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 93,
+        "score": "PASS"
+    },
+    {
+        "studentId": "45b478f5-70c9-4d2d-b4f4-3ed1ca20c224",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 48,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "2cead534-24b9-4fa7-a730-afd7f13eaaab",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 16,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "1f88bc45-9102-4681-9d8a-50f0a4b9656d",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 19,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "af5d1cd5-222b-4dc2-9cb4-ad21ccc3f02c",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 47,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "8bcfe69b-fa17-48e6-8f0c-5177ee84a07b",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 51,
+        "score": "PASS"
+    },
+    {
+        "studentId": "06c17136-78a2-4ed9-96c7-d804160c567e",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 27,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "2321ec5b-ce5c-4efb-8405-bf58f9ce4cbd",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 62,
+        "score": "PASS"
+    },
+    {
+        "studentId": "564f3525-3b21-4fc7-a955-13a84b1fb708",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 8,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "5935d62b-acb0-46b5-9657-408a2f2d5716",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 97,
+        "score": "PASS"
+    },
+    {
+        "studentId": "31056af7-49c4-43ab-88bf-94a509063abf",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 74,
+        "score": "PASS"
+    },
+    {
+        "studentId": "1a03d242-a2e6-4f73-a006-1a67700953c9",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 25,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "d595a2fa-87b5-4ed2-908c-7c61900f20c2",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 47,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "3bf03dcc-3b89-45a0-ae70-5e032cecec75",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 77,
+        "score": "PASS"
+    },
+    {
+        "studentId": "db613fae-8429-4ac0-b149-3e6c6ba4be6a",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 39,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "ff8d3c3d-f5eb-4a10-8ea4-42a67bfd84b7",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 48,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "62187991-0e63-45d9-b08b-d2515aa117c6",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 67,
+        "score": "PASS"
+    },
+    {
+        "studentId": "7db17008-de9d-46b2-8863-57d4bb63a2d9",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 95,
+        "score": "PASS"
+    },
+    {
+        "studentId": "c63326d1-157f-412a-bd64-afea4af2df73",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 4,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "b3ea45f1-3e57-43a5-b3d6-ec72ab184df0",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 21,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "6754b0e0-6a1f-4025-9c35-b3194b4dfdd0",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 2,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "133e438c-f5e0-4a71-b017-6aa8ab5d493f",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 64,
+        "score": "PASS"
+    },
+    {
+        "studentId": "a8e04a39-451e-4a90-a5b5-9d122e298a58",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 37,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "bb463331-49a2-4fd2-a0f0-2b8982f1e570",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 23,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "859f19dc-6898-4d70-b685-1302f422de09",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 52,
+        "score": "PASS"
+    },
+    {
+        "studentId": "f11b85ae-c73f-4ca0-8811-75e8ad626131",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 20,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "2bfdbe71-8093-4012-a338-34088746172e",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 7,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "5dafba69-7d39-4dbb-8eb2-6e69863fe39f",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 93,
+        "score": "PASS"
+    },
+    {
+        "studentId": "9d9fc781-d709-45cf-aa5a-a31852875495",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 95,
+        "score": "PASS"
+    },
+    {
+        "studentId": "b733c10a-c4c1-4729-b2f0-b0900cff43ad",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 8,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "bf63b031-9640-4b9d-83a3-125dbf903e63",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 4,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "a4cdd870-5bbb-417b-81ba-428efd43e5c4",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 32,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "dacdc272-ecd9-4bc6-b1e6-64ea4e826586",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 83,
+        "score": "PASS"
+    },
+    {
+        "studentId": "612e2f06-26c2-4729-95d0-169b2725ce6e",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 5,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "b5a014c2-97ad-4583-95d0-b22bbaeb769f",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 99,
+        "score": "PASS"
+    },
+    {
+        "studentId": "1fd46b4c-4c86-4fc1-b905-6887eec1842f",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 86,
+        "score": "PASS"
+    },
+    {
+        "studentId": "e67bb116-f051-4ed8-a1e3-bcb55807864e",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 33,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "758a05fe-8c5d-4804-b707-aa4dd80f1d78",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 98,
+        "score": "PASS"
+    },
+    {
+        "studentId": "f01bb6c4-9c57-4cac-b422-afbd0e28f16e",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 99,
+        "score": "PASS"
+    },
+    {
+        "studentId": "13b9a4de-b05d-40d8-90c7-c90cebe2a8a1",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 80,
+        "score": "PASS"
+    },
+    {
+        "studentId": "cc136f93-24bd-49b8-a022-33e5e14b1a97",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 99,
+        "score": "PASS"
+    },
+    {
+        "studentId": "9ee74849-b24c-40ce-90c7-5711d24712f2",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 68,
+        "score": "PASS"
+    },
+    {
+        "studentId": "8a374070-3372-44f7-a161-8457c47334f6",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 3,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "ee886253-9dc4-47d4-8df7-d6118f6a1c45",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 34,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "43556ee7-a827-46b0-9bb4-5cd5050a574e",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 53,
+        "score": "PASS"
+    },
+    {
+        "studentId": "7db294f1-a346-4e09-8d00-7a21bdcb8a90",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 32,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "6d3cb2ab-cf11-4931-a2cf-e5448cc9e5f7",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 64,
+        "score": "PASS"
+    },
+    {
+        "studentId": "774f323f-5779-4396-bda2-fa94cc3238fe",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 46,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "fe1f121f-4855-4755-9a54-ce8e96ba9a98",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 11,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "3048ba60-0c33-4d39-af16-646b9d02b47f",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 38,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "5bd3dd4b-2b0a-4555-81bf-53a5a00002c4",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 11,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "964a751f-8fe1-43b1-971d-8bd283da89d3",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 69,
+        "score": "PASS"
+    },
+    {
+        "studentId": "d6111320-07b2-464e-bc70-7767526e2e76",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 22,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "a13af2a8-4a99-453b-adb4-889170fa4426",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 48,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "0650cbf7-8d19-4ccf-8665-caef6979917e",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 87,
+        "score": "PASS"
+    },
+    {
+        "studentId": "0d10ba61-5e26-45c1-8d58-94435b103501",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 14,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "a4de5ab5-5901-421f-8497-b35e1e5d66f1",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 52,
+        "score": "PASS"
+    },
+    {
+        "studentId": "9a24ca71-e767-4380-b155-89b1d8e6ab3b",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 33,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "397949f0-1c41-487f-8296-451505c79724",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 48,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "74ded9e1-fee4-4245-b89b-98e7067a608b",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 94,
+        "score": "PASS"
+    },
+    {
+        "studentId": "1fc4e904-538f-4f2c-9966-9dee13991c83",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 45,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "c0f3a342-9b4e-4e35-883d-8f615980f776",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 91,
+        "score": "PASS"
+    },
+    {
+        "studentId": "cc19686c-87ee-415e-86a5-78d27383b327",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 12,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "9ced7054-21ae-4c30-86c5-3fb243b281bf",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 4,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "38d00747-8292-4695-9212-22b3c4efd614",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 81,
+        "score": "PASS"
+    },
+    {
+        "studentId": "2d2ec5e7-bead-4c4d-a3b2-40268848c335",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 90,
+        "score": "PASS"
+    },
+    {
+        "studentId": "42911444-bedc-4c0b-ac88-baf509e3862d",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 19,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "0b8658c2-f95d-45f6-959a-b98ac94e0212",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 99,
+        "score": "PASS"
+    },
+    {
+        "studentId": "c143ddac-a001-48c5-b9f8-1e21bde6d81b",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 1,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "24f15a71-85f5-4217-abdb-88041424380e",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 49,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "0b9f84d5-42df-4080-815b-88f84e52eaf4",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 89,
+        "score": "PASS"
+    },
+    {
+        "studentId": "12b4babe-a4d1-4adf-8e19-f6fa298826ee",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 10,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "0813d70e-9629-41f3-a12f-c5d957387da3",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 62,
+        "score": "PASS"
+    },
+    {
+        "studentId": "70749a2e-ca8a-46e7-b5a3-de0e3cfe61fb",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 68,
+        "score": "PASS"
+    },
+    {
+        "studentId": "d639a160-890d-43f6-a8b8-dfcd7226b5d7",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 61,
+        "score": "PASS"
+    },
+    {
+        "studentId": "7be4a33b-6afb-4599-865f-43c661d60667",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 59,
+        "score": "PASS"
+    },
+    {
+        "studentId": "d941a82b-87d9-4e55-b788-e7926c26b28d",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 30,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "8e28f51d-c034-4495-9b88-aef99ee7e9a7",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 3,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "c17893e7-1aa8-4026-96f6-a0d836f16039",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 79,
+        "score": "PASS"
+    },
+    {
+        "studentId": "78e6b3e1-b5c6-4a16-b9a2-959ebd6513d2",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 37,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "28e4a47f-7123-4aaf-9456-05e4ea6f14ed",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 84,
+        "score": "PASS"
+    },
+    {
+        "studentId": "e3cf38c9-e149-478c-a72e-81c95821c0a5",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 98,
+        "score": "PASS"
+    },
+    {
+        "studentId": "fb9acd93-9bb6-48a1-b4f4-fcc9cd64f524",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 91,
+        "score": "PASS"
+    },
+    {
+        "studentId": "1669749b-a6c7-488f-9771-5ca9487040c2",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 54,
+        "score": "PASS"
+    },
+    {
+        "studentId": "aeaed91e-adbf-460f-a190-1b252bcbb844",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 80,
+        "score": "PASS"
+    },
+    {
+        "studentId": "f6468297-e4bf-4fd5-9f9f-1cdd4aefca16",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 92,
+        "score": "PASS"
+    },
+    {
+        "studentId": "40b5625f-f0f1-4937-a01c-0540b6740321",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 41,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "a1b33a12-dfbf-454c-bf9a-33e5bf0df9b0",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 43,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "dc7a32a1-3217-4b8e-8e5c-279578d4bea9",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 75,
+        "score": "PASS"
+    },
+    {
+        "studentId": "cb6b5a19-4b46-4e55-a67f-76aca59867e5",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 61,
+        "score": "PASS"
+    },
+    {
+        "studentId": "8170665a-cdfa-464b-9f20-e23d9c268fea",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 5,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "5fedf8bf-bbfb-4a7a-99c5-bf5ec09373d4",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 27,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "30493f6e-7879-4bfd-bc2f-ef6be3b9160a",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 43,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "3b33c3d8-710e-4e20-9f56-237d54fd196f",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 50,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "7665ddd8-23a8-4ad0-a580-4b296ee5ea1e",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 94,
+        "score": "PASS"
+    },
+    {
+        "studentId": "c3c3a2d4-9cad-42f3-8dc9-84717513a76f",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 2,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "0d5331b6-acc5-4d7c-8d11-434441a60b1b",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 93,
+        "score": "PASS"
+    },
+    {
+        "studentId": "7705c937-55b6-47b3-be6d-ec8e29cd07a0",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 59,
+        "score": "PASS"
+    },
+    {
+        "studentId": "d3c0cceb-e262-4a57-aaaa-d8d2d54b53cf",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 46,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "3547820a-380c-40b0-bca0-8ab5d515499a",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 77,
+        "score": "PASS"
+    },
+    {
+        "studentId": "8524f6b7-3599-4d59-bc1c-db5bbb4d9a79",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 3,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "598c7022-ff64-49e5-859a-c5b9ac20250c",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 19,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "568a3edd-e2f8-4957-8321-488c88a8d272",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 15,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "f4512433-5dd4-4f9c-80d0-4f26821224ba",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 38,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "4e01111d-0d35-4d96-86ea-081a7c061ff7",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 15,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "4a72af20-ced9-48f0-8116-6107bb4e0fb1",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 92,
+        "score": "PASS"
+    },
+    {
+        "studentId": "e3325f60-c62e-4f6c-a2a8-969d8277c289",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 70,
+        "score": "PASS"
+    },
+    {
+        "studentId": "7d46011a-aec3-46f4-afde-dbf4bfaa934b",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 97,
+        "score": "PASS"
+    },
+    {
+        "studentId": "96663bf4-3fc5-4e41-a312-01224c436f07",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 82,
+        "score": "PASS"
+    },
+    {
+        "studentId": "f42f5e3b-0332-4a28-a1f3-004d57f5b1be",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 49,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "0f8cde25-140c-4273-8f3b-6e44ab38103c",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 16,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "1535f8f3-e0cf-4c06-b10b-800544197aac",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 84,
+        "score": "PASS"
+    },
+    {
+        "studentId": "f5c40374-c805-46a5-b4ac-0078feba8ff1",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 100,
+        "score": "PASS"
+    },
+    {
+        "studentId": "8ba247a5-f08e-4d5a-a57d-765f5688fa98",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 2,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "600d56cc-6017-4166-a520-baef6d503c2c",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 31,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "47c77fd2-6193-4524-a5ca-2ceec6dd4715",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 8,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "81fef63a-4720-4292-a7d7-bae3029e3c8c",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 30,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "5507dc14-93ec-4f3a-a140-68d652056791",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 44,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "21dad2ab-e80b-44c8-b64c-5d19f5309dae",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 55,
+        "score": "PASS"
+    },
+    {
+        "studentId": "088a5f73-681d-47b7-8e77-c91a797c9403",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 20,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "a7531ed3-983d-4021-bf0e-e18d67871806",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 93,
+        "score": "PASS"
+    },
+    {
+        "studentId": "4c8e35f6-211c-48bf-ba8b-7b32fe2aff5c",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 100,
+        "score": "PASS"
+    },
+    {
+        "studentId": "40870ad3-7a29-4a40-88a3-7199c651d583",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 91,
+        "score": "PASS"
+    },
+    {
+        "studentId": "2cb7e379-93da-4313-9bc9-3d06b9eb510d",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 21,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "73a29a3e-d82d-418e-85e9-f3112718aff5",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 82,
+        "score": "PASS"
+    },
+    {
+        "studentId": "61f12180-9b52-4f69-a197-64567b7d5a01",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 2,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "cce0bd6c-3f5e-4789-951c-6ac6a9afd205",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 87,
+        "score": "PASS"
+    },
+    {
+        "studentId": "b4a3fd3a-b5a9-43c1-a6af-8f438e737565",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 20,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "9385e8a2-b820-452d-9134-f45c0b3b4128",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 35,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "43654d28-e151-47f8-941f-7dbbccd184d5",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 62,
+        "score": "PASS"
+    },
+    {
+        "studentId": "86fec087-ef2a-4c9f-929c-02be1a741440",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 54,
+        "score": "PASS"
+    },
+    {
+        "studentId": "f98aa5c4-ede3-4fb2-9c53-4b0db5722306",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 83,
+        "score": "PASS"
+    },
+    {
+        "studentId": "71871ed2-4f72-4d88-9c0f-4c3d72393c7e",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 59,
+        "score": "PASS"
+    },
+    {
+        "studentId": "34f4d8d2-d9cc-44bf-a7b3-b677e773b9f9",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 56,
+        "score": "PASS"
+    },
+    {
+        "studentId": "0149e661-f006-4596-ba64-56f7bfbce564",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 96,
+        "score": "PASS"
+    },
+    {
+        "studentId": "9fc09915-6a06-42fe-b6ba-b0fdd17d4ba7",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 100,
+        "score": "PASS"
+    },
+    {
+        "studentId": "1c0a687b-df9b-401f-8518-5fe16c3731e5",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 56,
+        "score": "PASS"
+    },
+    {
+        "studentId": "53105c06-a360-404b-8e7c-a398bda99085",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 93,
+        "score": "PASS"
+    },
+    {
+        "studentId": "55129400-2c04-4d11-9a9b-5476c8aa5914",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 74,
+        "score": "PASS"
+    },
+    {
+        "studentId": "573b7c72-313e-4e5b-881a-a0a8a654dc66",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 87,
+        "score": "PASS"
+    },
+    {
+        "studentId": "2b86987a-fe54-4afe-86fa-2fd9fe62ef2a",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 18,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "ba8d9652-2467-41c5-95d0-0a214e3e7a30",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 32,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "2cf7c746-ca65-4a60-b80e-7a5ebb4f49d7",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 84,
+        "score": "PASS"
+    },
+    {
+        "studentId": "fa8f8369-cb6f-4291-b2f3-8e004174b9b0",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 23,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "fb5d6edb-0ae3-4069-8b47-ac6be360d282",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 7,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "24edfeeb-7bee-4e27-a4b2-59dfee838590",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 38,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "d3352d58-236a-468a-b98a-1bbcad5f9d08",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 3,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "61926c7c-7ac6-418a-a0bc-0b42e367064f",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 29,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "0fee7421-1080-4869-8d20-1d218b608807",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 59,
+        "score": "PASS"
+    },
+    {
+        "studentId": "fcd5e05e-09aa-434e-9917-d7300aaff7dc",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 12,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "44fe86dc-d305-46cf-8ed2-98f47139ec5f",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 9,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "284a5afe-4c62-43a9-9e93-58151187f81c",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 92,
+        "score": "PASS"
+    },
+    {
+        "studentId": "2fe4acf9-ddd6-4867-88e4-ab0bced4a010",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 48,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "9cc170e7-0885-4a46-a8ee-87f3522ab00f",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 9,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "dd3c4e17-2e79-4dbd-8883-54213087cb51",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 47,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "2e5870cb-70b7-4201-aebb-65d1d938c60f",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 43,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "95c6081e-ee4c-4c75-ae69-4ca00ae32379",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 68,
+        "score": "PASS"
+    },
+    {
+        "studentId": "1ea745f2-6628-4aad-8bd0-2f7926f40e6f",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 5,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "1bff5a27-1c32-429e-8acb-593e9abe1dd7",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 4,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "7b6d734b-185e-4fcc-9c28-a51cf2b56499",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 25,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "9b7501c2-66f7-42ee-9916-92d7089906dc",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 58,
+        "score": "PASS"
+    },
+    {
+        "studentId": "a5592e22-55b5-40f9-aab5-f8347989e72f",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 8,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "3505f091-8e3b-4516-a673-75de676e3bc4",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 64,
+        "score": "PASS"
+    },
+    {
+        "studentId": "28084fec-607f-4d94-a59b-32d593cf8422",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 54,
+        "score": "PASS"
+    },
+    {
+        "studentId": "4ab12608-0167-4237-b517-2e485c757a7d",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 81,
+        "score": "PASS"
+    },
+    {
+        "studentId": "e9eab2d3-10da-4545-8442-edb6d506f839",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 87,
+        "score": "PASS"
+    },
+    {
+        "studentId": "3252baba-f3b4-4f4c-b14d-8ecbeda56589",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 74,
+        "score": "PASS"
+    },
+    {
+        "studentId": "08a8e314-1337-4a74-a67a-d299c9c10458",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 93,
+        "score": "PASS"
+    },
+    {
+        "studentId": "3f937120-68b9-4733-baeb-b28ee0545fb2",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 32,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "463c43ec-46c0-4301-bbb9-18819475dd11",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 91,
+        "score": "PASS"
+    },
+    {
+        "studentId": "ce4eaa3f-d17c-4ec9-9c65-fe79c4aff4de",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 21,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "5df9d34d-7220-4396-b9a7-49f6eb66500a",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 6,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "2ac1eadf-2396-4bca-b3e9-8c4c74133a69",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 60,
+        "score": "PASS"
+    },
+    {
+        "studentId": "b5200e8a-3b56-4cde-b4b1-01564b2b7be4",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 3,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "fc8a141f-f693-4c4a-9a9e-397171e952b4",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 10,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "ea463782-0e68-4ec0-b6ba-9930db69f180",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 20,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "e60a023d-1422-44f4-8c0c-3e153ae9fa22",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 49,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "860c2f54-e8a1-41c4-a0e6-cecdc88660bb",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 47,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "64c91768-a369-4ded-b0fe-4743f04b5982",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 23,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "b6bb62ef-4695-4a5e-aa53-c9221d790e52",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 25,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "2e8dfae8-1180-43c6-918d-22f42606edb6",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 12,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "c05a679e-7c1e-4ffa-b629-80e0775c7cd1",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 29,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "04dec438-7af6-4dfc-a7aa-f21c9a218677",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 91,
+        "score": "PASS"
+    },
+    {
+        "studentId": "25bda056-1555-4f13-b554-10563025c500",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 67,
+        "score": "PASS"
+    },
+    {
+        "studentId": "42e8634d-12e5-4cab-9f21-ad0f9ef0599a",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 92,
+        "score": "PASS"
+    },
+    {
+        "studentId": "407c0bb0-4a77-4d80-8128-7595bf0b842f",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 87,
+        "score": "PASS"
+    },
+    {
+        "studentId": "9e15e0cf-2617-44ce-aa9a-2084023b5d2c",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 44,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "020bc84c-b896-4233-8b2e-c43c41cafff2",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 72,
+        "score": "PASS"
+    },
+    {
+        "studentId": "c7968020-a4da-40b9-877b-e06a69554a30",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 24,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "fce6ad0a-44f0-4371-a78f-22201d363da4",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 97,
+        "score": "PASS"
+    },
+    {
+        "studentId": "c79d00f7-33c8-4e25-91d7-b4c938a5a178",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 45,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "0a83263b-a87d-4bd4-be60-c9e9f476cae9",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 71,
+        "score": "PASS"
+    },
+    {
+        "studentId": "074afa47-4e27-40b9-bc7b-3eb3404f842e",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 1,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "e26fedd3-17fe-4637-aa5f-0604063ae998",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 88,
+        "score": "PASS"
+    },
+    {
+        "studentId": "37cc2969-5947-473e-8166-fa88ecb61ab8",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 28,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "7808f2cb-988b-4fdc-8321-2ce030beb825",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 23,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "f5f21ba9-7349-4636-86eb-8f9ff14e1f4e",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 55,
+        "score": "PASS"
+    },
+    {
+        "studentId": "b987fb5a-2d97-4c24-8d23-f1f87a5338c3",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 54,
+        "score": "PASS"
+    },
+    {
+        "studentId": "ee70618b-52a6-4635-895e-262e2f99fee6",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 85,
+        "score": "PASS"
+    },
+    {
+        "studentId": "437f4842-b6b2-46b8-ae8a-b7f5b7c1cfc8",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 1,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "ef14bbb8-d89c-4639-8595-39fc9111a389",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 32,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "b0ed4e71-845a-4a09-8a32-a4f929754f0a",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 21,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "3125f759-eb9c-484a-a53f-0fcc9c106d8a",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 48,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "7b4f226b-1125-4df9-8a23-3d611080dcc2",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 91,
+        "score": "PASS"
+    },
+    {
+        "studentId": "7218a13c-3fe5-40cc-9bbc-8f15c3aba322",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 82,
+        "score": "PASS"
+    },
+    {
+        "studentId": "6e01ef3b-c7ab-4db0-a768-21e30c63e113",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 55,
+        "score": "PASS"
+    },
+    {
+        "studentId": "3ed82a31-89cc-4f96-89c4-40811ae07a6c",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 23,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "7d1a5a8d-9b6c-413b-805a-238ddc4a1b94",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 32,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "0873dc15-01cb-4219-8d10-e36d952f3373",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 77,
+        "score": "PASS"
+    },
+    {
+        "studentId": "143bf9c6-dec2-40a7-b64f-fcdda78a5d1d",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 62,
+        "score": "PASS"
+    },
+    {
+        "studentId": "0aec33f0-9b63-4eba-96a8-091ec2c8649f",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 28,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "da7a014b-5f07-4f3b-ae2f-0ad2aaa8313b",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 8,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "9796bb25-8404-4d51-8c6b-77d8ca417e48",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 52,
+        "score": "PASS"
+    },
+    {
+        "studentId": "bb126093-f183-4ce6-972d-3cf265dc8ba0",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 21,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "86245a53-0309-4ba2-b907-9541a9d9c3f7",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 100,
+        "score": "PASS"
+    },
+    {
+        "studentId": "15322996-59fc-4cc1-a4c1-0891a6cf03ec",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 67,
+        "score": "PASS"
+    },
+    {
+        "studentId": "4c11e561-0be0-45ef-9438-369a73a1e5ba",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 36,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "8ec3ee62-1723-4130-9902-0a0f203bc14c",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 44,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "420d7a7d-4079-49a8-8e5a-b2d9ceda09f5",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 90,
+        "score": "PASS"
+    },
+    {
+        "studentId": "98742b6c-cba4-4eb6-aa3c-5726f4838dac",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 16,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "b53280df-dc2a-43ef-af1f-9d44f02877b7",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 91,
+        "score": "PASS"
+    },
+    {
+        "studentId": "ee286ef1-589c-404c-93da-21239f9082f5",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 70,
+        "score": "PASS"
+    },
+    {
+        "studentId": "424e3a1c-959a-4c32-9572-6972bed26d6c",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 90,
+        "score": "PASS"
+    },
+    {
+        "studentId": "dea959bb-50b0-4787-bf86-06d945ec21c8",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 51,
+        "score": "PASS"
+    },
+    {
+        "studentId": "adc5a981-cb3f-4f08-a802-3304d3546a30",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 7,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "d76b5e95-b2f2-46de-88a8-9d7997336396",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 96,
+        "score": "PASS"
+    },
+    {
+        "studentId": "161a2270-c7c1-4455-bc4f-d4679b435405",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 80,
+        "score": "PASS"
+    },
+    {
+        "studentId": "9cc60b14-3fe3-4965-b602-7e28ab5bad52",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 94,
+        "score": "PASS"
+    },
+    {
+        "studentId": "80274b75-ed8b-40f8-897f-2417a0d2b34d",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 20,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "f2d649b3-6061-484c-97ea-88c4b6795f25",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 69,
+        "score": "PASS"
+    },
+    {
+        "studentId": "0bb2d31c-2d90-4b30-bd4c-27d863fa1cd2",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 34,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "53209ac4-31ba-4204-ba99-7222ebb5c317",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 1,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "2f4d7793-cbdc-4fd9-8154-a1862732c0e6",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 92,
+        "score": "PASS"
+    },
+    {
+        "studentId": "bb1d6884-7c20-4877-9dac-ad1b45996140",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 85,
+        "score": "PASS"
+    },
+    {
+        "studentId": "3708c785-80e5-428b-9dc8-73ec8e07025a",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 73,
+        "score": "PASS"
+    },
+    {
+        "studentId": "04f42bd3-2626-4a69-a2ed-775f0b8dbc20",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 39,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "93a59165-3f7d-4ac4-aaf5-6b8af17def20",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 51,
+        "score": "PASS"
+    },
+    {
+        "studentId": "1414fe01-8f55-49ee-b880-74428d461f50",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 4,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "e19e2fc7-7390-473f-b270-ec8209df6f65",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 8,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "b4df559d-a99e-411e-9c3b-6f92f496efaa",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 69,
+        "score": "PASS"
+    },
+    {
+        "studentId": "403025dc-0bc6-4b06-82c8-73c8518e1016",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 72,
+        "score": "PASS"
+    },
+    {
+        "studentId": "e90db1eb-0fb2-49fc-9ae2-6fa03c1eaf70",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 63,
+        "score": "PASS"
+    },
+    {
+        "studentId": "3d1f0c20-4d9b-4d32-805a-a51dbf64d138",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 34,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "1ebcbd16-654c-47e7-9fe7-48bdb1dc35f2",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 3,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "29b6c218-5989-4b1e-bc22-c3516d98184c",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 3,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "cc239119-06c4-481b-8f09-c9f650cff9d8",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 34,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "1a64c7ef-f7fc-4c3b-a3e9-ea8d1a63628c",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 32,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "c43cd98b-7b08-4dbb-b6f2-ccab25edcc6f",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 56,
+        "score": "PASS"
+    },
+    {
+        "studentId": "e4c20796-d923-416f-bf01-858573faf10b",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 17,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "8206f09f-a53e-4bee-ade5-1d1163e01afa",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 21,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "057beda2-681c-4988-adf6-4280327f90b7",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 59,
+        "score": "PASS"
+    },
+    {
+        "studentId": "13643acc-1b12-4b19-9774-75dd65c14681",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 92,
+        "score": "PASS"
+    },
+    {
+        "studentId": "06f5858f-0173-48d6-a683-642dac82da23",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 45,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "319ceeb0-9a6e-4a38-84c4-14850b11e6a0",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 76,
+        "score": "PASS"
+    },
+    {
+        "studentId": "4b14e951-4ba8-4dae-a0af-0f05bf10af10",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 55,
+        "score": "PASS"
+    },
+    {
+        "studentId": "867302ce-64bf-4e6d-a51c-b1fd75560cd8",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 73,
+        "score": "PASS"
+    },
+    {
+        "studentId": "5a36af98-05d1-4772-bb80-ada75cca4ba2",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 16,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "410a75e3-112f-4887-b90f-962f79bde324",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 25,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "1f2a3d2c-c869-416d-9afb-a69d7ca44479",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 47,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "bdbb3d1a-265e-46a3-b02a-32967b42aec3",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 30,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "7806982b-1985-467e-ac27-db331fb37b41",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 34,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "d5345f44-aaba-4102-bd1f-f30d8f71ed6d",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 5,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "acbf735c-e3a6-4210-8dda-f07819997ec4",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 34,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "d5d865af-8dbe-4ae4-ba7f-8c9ee1d76462",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 51,
+        "score": "PASS"
+    },
+    {
+        "studentId": "96ae995e-4710-4f54-a38e-b634ee76a491",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 82,
+        "score": "PASS"
+    },
+    {
+        "studentId": "ff58e573-0af6-4995-80ef-b121756625f1",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 39,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "73a0f6d7-cec6-4eb5-8513-a3981de34793",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 35,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "09928f99-76da-4a62-82ab-b7bf8f64085f",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 44,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "f82dc31a-a007-47c2-88c7-09c82b1f4f1b",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 69,
+        "score": "PASS"
+    },
+    {
+        "studentId": "a44a16d6-603a-4e82-abc5-8c6187f8410d",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 70,
+        "score": "PASS"
+    },
+    {
+        "studentId": "d382007c-63b7-452b-8204-ea83cfe50476",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 50,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "9c10701f-eb0e-4bca-b2d0-0966199fc29f",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 100,
+        "score": "PASS"
+    },
+    {
+        "studentId": "afcfd1ce-a1a3-4d7c-87ea-fdd2e7e4160b",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 57,
+        "score": "PASS"
+    },
+    {
+        "studentId": "cf746767-6d58-4813-99c3-bf2aed5bf439",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 99,
+        "score": "PASS"
+    },
+    {
+        "studentId": "3a05b185-106d-4268-a6c8-894cd084dbc4",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 33,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "1b90c021-a889-437f-91bb-a1551105dc1e",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 3,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "8dec5cb7-06d6-4374-88f1-01246d0c4d2e",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 59,
+        "score": "PASS"
+    },
+    {
+        "studentId": "d0d96d62-c3a5-4413-9098-2927a54cb0ea",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 62,
+        "score": "PASS"
+    },
+    {
+        "studentId": "e32f578d-88ef-4d8e-a44b-7581e7faf600",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 98,
+        "score": "PASS"
+    },
+    {
+        "studentId": "e1f60ee9-4ec6-40d4-9b74-604bb124fd00",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 57,
+        "score": "PASS"
+    },
+    {
+        "studentId": "011edf53-eef7-4f33-b466-45c483d8f200",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 96,
+        "score": "PASS"
+    },
+    {
+        "studentId": "4ff86575-9a24-4a8b-90c3-c65b2969be3c",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 27,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "11f0e3ba-88ae-448f-a362-1dfafab37d57",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 85,
+        "score": "PASS"
+    },
+    {
+        "studentId": "f1c6cd7f-2220-45df-95f6-86a5a1befd2c",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 16,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "ddd4bfb7-013e-4001-a30a-4aa0e76b956e",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 61,
+        "score": "PASS"
+    },
+    {
+        "studentId": "7b8c3639-0014-4f54-85ba-a7c95969be73",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 86,
+        "score": "PASS"
+    },
+    {
+        "studentId": "b453d564-e18e-4a96-8433-a1c82d83b3ce",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 84,
+        "score": "PASS"
+    },
+    {
+        "studentId": "401c2d77-1cbd-4c93-91ca-3bb0c6b103d0",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 59,
+        "score": "PASS"
+    },
+    {
+        "studentId": "4bda9d25-0679-4284-995f-068621019cf1",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 53,
+        "score": "PASS"
+    },
+    {
+        "studentId": "fec9c3d8-66c0-4b90-8e39-78d6d7c4edc7",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 2,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "1ba1c79f-7fbd-40da-87f5-3f13ac3ef2e9",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 93,
+        "score": "PASS"
+    },
+    {
+        "studentId": "39d38b1d-3f06-48f0-a1cb-038db543f9fd",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 51,
+        "score": "PASS"
+    },
+    {
+        "studentId": "4ae21514-8066-4e51-a627-549148051f93",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 27,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "30ffb0d8-b9a8-4b5f-949c-b4f586565c03",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 53,
+        "score": "PASS"
+    },
+    {
+        "studentId": "5a2d37bb-8be5-4b32-8829-61371c69cba6",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 80,
+        "score": "PASS"
+    },
+    {
+        "studentId": "c0f90bde-9f23-412d-97ac-f0c1ceec2475",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 75,
+        "score": "PASS"
+    },
+    {
+        "studentId": "6c2f6ed5-a998-4c18-8190-c09cf48f8f06",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 71,
+        "score": "PASS"
+    },
+    {
+        "studentId": "cc1be91d-6018-4628-a20b-827c15bf7f4c",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 75,
+        "score": "PASS"
+    },
+    {
+        "studentId": "afa39f9a-8fda-4e43-b1e9-e44a8ff6a72a",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 87,
+        "score": "PASS"
+    },
+    {
+        "studentId": "4e70e96a-9f39-4ac8-9f8c-d520b645f07d",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 1,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "6ecde416-0bef-4015-8435-98409f08fc8a",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 76,
+        "score": "PASS"
+    },
+    {
+        "studentId": "2403fd78-b4a5-4f5a-b637-99a3374a2a46",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 59,
+        "score": "PASS"
+    },
+    {
+        "studentId": "85ddb6fd-c19f-4bf9-a72e-860634642899",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 26,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "e6435f32-5a26-415e-bd1f-db803ef7aa26",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 77,
+        "score": "PASS"
+    },
+    {
+        "studentId": "3e85f34b-e1e8-4771-a89b-745c9fe26f55",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 83,
+        "score": "PASS"
+    },
+    {
+        "studentId": "d0a40993-68d6-47e8-bb8a-9c111a160cf9",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 20,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "bc8f6469-24f6-4f93-8a8b-de2d9ba744f1",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 43,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "a8ffdcae-804b-44aa-9784-e09b54435e33",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 78,
+        "score": "PASS"
+    },
+    {
+        "studentId": "6dec7251-4d70-4de5-aaf8-92df0da138ec",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 89,
+        "score": "PASS"
+    },
+    {
+        "studentId": "59be2a65-5838-485d-abd0-573d46308ccd",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 89,
+        "score": "PASS"
+    },
+    {
+        "studentId": "6d1d4872-411d-4ae1-ba07-f2a7e975408b",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 100,
+        "score": "PASS"
+    },
+    {
+        "studentId": "ed09f2b1-2d0d-48a1-9902-7bece80cd74c",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 45,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "f6f1d31f-60e0-4b3d-9a8a-1397df1224ab",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 58,
+        "score": "PASS"
+    },
+    {
+        "studentId": "9d2c9c36-1df2-415f-9a70-c63b3ee9d017",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 42,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "9fd9801c-fd18-4f72-9fee-f745a15b801d",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 83,
+        "score": "PASS"
+    },
+    {
+        "studentId": "a5976e17-e040-4cb1-bf5e-fdff387dd2eb",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 82,
+        "score": "PASS"
+    },
+    {
+        "studentId": "cfb14614-bae4-4211-becd-dde909356cb6",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 85,
+        "score": "PASS"
+    },
+    {
+        "studentId": "b69b1aee-50c9-431f-bc43-3a9e88a38f87",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 90,
+        "score": "PASS"
+    },
+    {
+        "studentId": "34045a02-be27-4703-9cd9-1deb9749cfe7",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 6,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "a92f07ae-dcb1-4775-9f00-86066bf86963",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 42,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "3d6ff322-9c3a-41ee-a378-7cee91355daa",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 21,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "8139390e-72a9-4736-a659-563bcd09e707",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 3,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "c47f3b9e-5c1b-436a-a1e3-4b99a4a95d79",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 98,
+        "score": "PASS"
+    },
+    {
+        "studentId": "e2c9b5cb-928f-4ba4-a8d1-56ed9e30e613",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 90,
+        "score": "PASS"
+    },
+    {
+        "studentId": "cc2c4727-7698-4081-b8c5-77e5745683e3",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 25,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "c86d4c52-e2ce-42c8-bef8-199788c5c406",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 1,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "7af74ad5-3b68-4f47-a834-54ad9b9eaeb0",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 83,
+        "score": "PASS"
+    },
+    {
+        "studentId": "0be614d0-0d0d-4b4a-8787-19014947d014",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 12,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "577f854c-f64f-499d-a2b0-120ef4623b5b",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 7,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "361a8429-8e9e-4cd9-b98f-8b81702d13af",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 14,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "227e41c6-99d5-436d-b15c-2f90e3dba4aa",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 3,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "ffc0f51a-8b70-47e5-8cca-d74fd3152249",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 68,
+        "score": "PASS"
+    },
+    {
+        "studentId": "d734ebd9-f554-418d-8f77-8083718222bc",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 43,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "0c7660a4-47e4-4cb0-aad2-8967f4f21c90",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 74,
+        "score": "PASS"
+    },
+    {
+        "studentId": "141ca3f1-d854-4bf1-b9be-6b7920e84738",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 20,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "e26beac0-7930-4697-ab03-11c6a42f2e40",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 60,
+        "score": "PASS"
+    },
+    {
+        "studentId": "e347560b-d2c5-43a0-bb8b-1c7d7b7efe76",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 17,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "714de8fc-2dec-468b-b2d3-454f0f71eeec",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 92,
+        "score": "PASS"
+    },
+    {
+        "studentId": "77bf380c-8830-4fc1-b2b5-55124ac547ed",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 22,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "251ef760-7048-446d-93b6-efd586777ec6",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 60,
+        "score": "PASS"
+    },
+    {
+        "studentId": "cfe5e956-0d97-4d1c-9997-6bd2753db0f5",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 47,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "f31b8c98-566c-4c9c-9ad3-02a8ae5f4b14",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 37,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "99248964-82f1-46f0-9953-695bd99446a9",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 75,
+        "score": "PASS"
+    },
+    {
+        "studentId": "a0454c40-3dc9-4d23-9dfd-5faab21ff1f5",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 31,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "d031dd91-fbeb-4b5e-8c14-ab325104d402",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 90,
+        "score": "PASS"
+    },
+    {
+        "studentId": "ce6c78a0-86c1-481a-bcd8-d25b01bfc48f",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 38,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "12f4bcca-a95f-47b9-9821-a243c4ce7bcc",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 99,
+        "score": "PASS"
+    },
+    {
+        "studentId": "328e602c-4be5-46ae-941c-bc508cc8f495",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 7,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "2f6be429-6756-474c-b8b9-ac7e9b12118a",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 30,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "a1fbe23f-17bd-4a20-8f4e-3b4e3d7d70be",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 63,
+        "score": "PASS"
+    },
+    {
+        "studentId": "d2d58ec4-d0db-45eb-9e99-6e4372e5aee4",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 95,
+        "score": "PASS"
+    },
+    {
+        "studentId": "607f4f4a-0ec6-4708-a106-888f164e9722",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 78,
+        "score": "PASS"
+    },
+    {
+        "studentId": "42289ae8-828b-4592-916d-a557970ddb12",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 100,
+        "score": "PASS"
+    },
+    {
+        "studentId": "11f51297-efee-4384-b927-13cc821811e4",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 34,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "cbcd3e53-94ca-442e-941c-ba39eca49126",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 13,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "4a78fe66-a5c3-4aa6-b84d-df4bc9eb094c",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 65,
+        "score": "PASS"
+    },
+    {
+        "studentId": "39dbf9d8-eb03-4e19-9e84-a76b3b12de69",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 7,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "f34a34db-0fba-4823-817f-a75c37813f88",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 24,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "4b4faa30-6329-4fdf-a0be-1b0029f31384",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 63,
+        "score": "PASS"
+    },
+    {
+        "studentId": "74420979-7795-4d05-9539-cf254630d928",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 62,
+        "score": "PASS"
+    },
+    {
+        "studentId": "575647d7-8850-4b9e-8194-3af5ffe69b7d",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 87,
+        "score": "PASS"
+    },
+    {
+        "studentId": "56ee26c9-d34c-4874-8964-2b949243d79c",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 39,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "437a0383-a0af-4e28-8104-92ce405c31c6",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 71,
+        "score": "PASS"
+    },
+    {
+        "studentId": "a0b1d6fe-d7b6-4d6f-864d-8f4009c62809",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 89,
+        "score": "PASS"
+    },
+    {
+        "studentId": "911375e2-e8fa-4472-9478-b815cace64b9",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 49,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "485fd13a-bb71-46b9-95ca-0a01d0dcc615",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 12,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "a8fd22e4-278b-4af2-b115-d3f57313b060",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 17,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "3fd5d0c6-63e1-4542-9dd9-db5c1b401258",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 100,
+        "score": "PASS"
+    },
+    {
+        "studentId": "98e53077-d859-4597-81ed-5d4cc890304c",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 52,
+        "score": "PASS"
+    },
+    {
+        "studentId": "ebfb012f-4460-4dc2-ba54-541d8be5131c",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 27,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "7c37c49a-a131-4c99-bb27-07605d2a5325",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 19,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "e206b23e-29f4-466b-a3b5-497ac12d513e",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 30,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "102ba910-4d04-4668-8cc2-4b74cc61be96",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 12,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "96ccf422-e50f-426b-bff2-35ae4377b856",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 56,
+        "score": "PASS"
+    },
+    {
+        "studentId": "7f4dc048-dfc6-41ad-89ea-ad56dd19afdc",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 70,
+        "score": "PASS"
+    },
+    {
+        "studentId": "372feb32-75b5-4b62-a056-a3b8fba4455b",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 65,
+        "score": "PASS"
+    },
+    {
+        "studentId": "67737a6f-da50-42d9-831e-c47a1a0d8d9c",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 17,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "11b02283-a726-41b2-8a74-f416ec505438",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 96,
+        "score": "PASS"
+    },
+    {
+        "studentId": "5bbb40e0-1c87-4fb5-8a0a-a0937cac7a91",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 20,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "db94acca-6ca1-4ec1-859e-ef1685a1ac3f",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 87,
+        "score": "PASS"
+    },
+    {
+        "studentId": "87212614-6bdb-4f87-81b7-325cf5c2cbdc",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 28,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "b44eb27b-9d6c-404c-bff8-64657d2857a4",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 44,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "c49b24a2-1746-4d50-b70a-7f20849712eb",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 90,
+        "score": "PASS"
+    },
+    {
+        "studentId": "eecafcad-9953-420a-86e6-e7f9a4d62dfa",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 88,
+        "score": "PASS"
+    },
+    {
+        "studentId": "f5d219f1-2876-48ea-81e5-1c71313b2ae2",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 95,
+        "score": "PASS"
+    },
+    {
+        "studentId": "152baa24-1455-4a4c-bada-b5ba0c68d68d",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 81,
+        "score": "PASS"
+    },
+    {
+        "studentId": "e787d63e-a802-4359-a98b-ddccab6c2abd",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 78,
+        "score": "PASS"
+    },
+    {
+        "studentId": "4c88c044-b76f-48bb-92c9-3437c216c1db",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 71,
+        "score": "PASS"
+    },
+    {
+        "studentId": "e3fcf5e7-13cd-4bb5-94ab-beb602ea5d5d",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 38,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "aa395449-4559-4cd1-a88d-6f9afb1f633c",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 4,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "17c10cf8-14e4-45f4-a48c-86a453ff89d6",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 62,
+        "score": "PASS"
+    },
+    {
+        "studentId": "1c2b71ce-8107-4bbf-802e-170ac00d2302",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 14,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "213c25ab-1ad8-4496-9cda-86c148c2c162",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 21,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "dcc15b73-b7c8-4f30-8b5d-9cc66a94b800",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 20,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "b715580f-b117-47ba-b0f6-8f7741cf5900",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 71,
+        "score": "PASS"
+    },
+    {
+        "studentId": "0d635c22-cd20-4ad6-aa9d-e4a492de1562",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 32,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "8dc98894-ec49-403a-993e-02f3f414a15e",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 25,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "a23f891a-ea77-488b-bb57-1c164db918bc",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 40,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "f7eea2c1-a66b-4fb6-b006-b2d0b6293ef8",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 12,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "90d29dd7-bdc4-494d-b786-711454df1512",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 83,
+        "score": "PASS"
+    },
+    {
+        "studentId": "b400569a-857f-4f78-9120-926cca228adc",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 35,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "8ffdaafb-266e-4166-9021-9500b16627c0",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 24,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "c3af1da7-b4ad-436e-b75a-8072fa455c4a",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 30,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "1625d922-0926-4e7c-a774-129f008628a3",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 100,
+        "score": "PASS"
+    },
+    {
+        "studentId": "201b480a-02f6-43e9-aede-f236a506b198",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 100,
+        "score": "PASS"
+    },
+    {
+        "studentId": "be835825-f328-4c7b-8f6b-bccc6d9333cf",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 22,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "077d8c12-6713-4db6-aab2-60fc397a5c1a",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 93,
+        "score": "PASS"
+    },
+    {
+        "studentId": "6980c6ce-7de9-4a22-a3a7-9985162d715c",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 54,
+        "score": "PASS"
+    },
+    {
+        "studentId": "7f33a7aa-3640-471e-ac7b-b0adbf78502f",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 12,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "c6cc8770-cd65-48ac-9b9b-0679ebfbf8ad",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 45,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "54b0a9e6-89e9-49b6-88fc-f029183f5a3b",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 35,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "d6fcc19d-51b2-42ad-95c8-fbffab984b86",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 6,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "624af6de-f90d-44cb-a8dd-e49dd32b875b",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 43,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "d41df5e3-d766-451c-b308-11a54d95580f",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 36,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "3be3671d-79b6-494d-986b-77f00e9478a2",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 23,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "9dbecd96-9502-47ff-a2d2-cf141227df1d",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 55,
+        "score": "PASS"
+    },
+    {
+        "studentId": "900fe497-74fd-44fc-824b-da58916eb236",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 61,
+        "score": "PASS"
+    },
+    {
+        "studentId": "dc430f12-25fa-4416-9195-0df28e9ba5f8",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 3,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "88e94e21-5bd4-46d3-beac-df646499a68f",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 4,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "f0e3d6e5-e934-4ee3-9bd2-8a166e3fde3a",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 47,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "78d96db5-4b59-42c0-b8ff-cd3f0c6453c6",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 15,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "d6c36f6a-a00c-4ce9-8741-17e262c96b52",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 26,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "b9422abe-08b5-4198-ae55-6ced67ac655a",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 59,
+        "score": "PASS"
+    },
+    {
+        "studentId": "1f0713b0-a427-41d9-a92a-1bc2a73bd168",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 36,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "9c121acc-a918-4b1d-b18a-987b394e78b8",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 33,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "ee921677-36d2-4dea-9df0-7923a5953656",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 93,
+        "score": "PASS"
+    },
+    {
+        "studentId": "e73c380a-5aab-4074-a5ab-5ffb6d5bcf30",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 54,
+        "score": "PASS"
+    },
+    {
+        "studentId": "a108b97e-cccd-4d1a-85f5-2f244327d259",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 3,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "31db089f-063b-4557-886d-f8caf84a222c",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 29,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "608dc281-288c-47bb-aa26-da7e03e93168",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 10,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "ad2778e0-6daa-4304-94ba-2771b1280d55",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 57,
+        "score": "PASS"
+    },
+    {
+        "studentId": "a0acc623-ae77-4496-bf7d-5043c908bca9",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 1,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "7c333f29-fbb4-41e1-8b22-20c4b9cae47f",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 32,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "0a87cfc3-0f0b-4c56-9a8c-8f5665f6ea7f",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 78,
+        "score": "PASS"
+    },
+    {
+        "studentId": "b9dc07fc-4195-4ded-a9a8-28056b80c0da",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 86,
+        "score": "PASS"
+    },
+    {
+        "studentId": "75ce1ea0-87d5-40c1-a95f-ae02ac36024f",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 48,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "f226b512-5c0a-4e78-a269-d583ac44ff0f",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 97,
+        "score": "PASS"
+    },
+    {
+        "studentId": "17c89ecb-e5ed-4f4e-985f-ab1ce901f5ff",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 61,
+        "score": "PASS"
+    },
+    {
+        "studentId": "d9d0afc0-e08b-4147-bca7-9c03a7b6b478",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 100,
+        "score": "PASS"
+    },
+    {
+        "studentId": "f6598e10-448f-4629-8de8-1efe5c269c3b",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 22,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "d7a74b39-be8d-42b9-a493-a88368286bde",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 91,
+        "score": "PASS"
+    },
+    {
+        "studentId": "be82327d-f0c9-426f-ab2e-898e50970d02",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 4,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "7fc2b457-997a-46ad-be65-9786ac2f5a6e",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 21,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "0db16a1c-ead0-4543-b4d5-822952401954",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 46,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "9b6292b2-d407-47d7-ae17-f04a08452286",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 78,
+        "score": "PASS"
+    },
+    {
+        "studentId": "c7a7ddef-da9d-4af7-8f06-772d2bd3e879",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 28,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "6b912aab-4fc7-4aba-aa84-2ae584f61bb0",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 93,
+        "score": "PASS"
+    },
+    {
+        "studentId": "4b0c7fe2-d3c7-43d3-95c2-bbd02cc01a79",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 7,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "13f5f6f9-acdd-4b76-a6bb-b6d9c0c8be11",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 7,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "f926413b-46fd-4c94-bb96-d429dc0de89e",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 51,
+        "score": "PASS"
+    },
+    {
+        "studentId": "d6770055-2c06-4477-9d0f-f6a35bbd9dbd",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 81,
+        "score": "PASS"
+    },
+    {
+        "studentId": "909ad844-bac4-46cb-ba79-b7a429c79e55",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 24,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "b9939735-5948-4944-a28a-610354a3b5c0",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 52,
+        "score": "PASS"
+    },
+    {
+        "studentId": "ee03de05-35ae-43af-8448-3b688c6ae2df",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 63,
+        "score": "PASS"
+    },
+    {
+        "studentId": "aa83abee-de2c-4c4b-afc6-4051b609907b",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 88,
+        "score": "PASS"
+    },
+    {
+        "studentId": "bab49851-0009-4592-8c7d-5c2400ac6cfa",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 58,
+        "score": "PASS"
+    },
+    {
+        "studentId": "16ce133a-be39-4539-9c2c-85fc873437fe",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 5,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "582fb127-40d0-4c49-b0fa-b0a282b9d2e0",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 26,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "4e7d9a3e-3e92-4a7e-b3c0-f548e222d9e2",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 37,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "e40c8462-7608-46ab-960f-c41e1f895b9d",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 38,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "3d874e83-aca3-43f7-985f-169aeb67b4cf",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 74,
+        "score": "PASS"
+    },
+    {
+        "studentId": "688cadcf-7ef1-409a-b74b-19157de1f567",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 90,
+        "score": "PASS"
+    },
+    {
+        "studentId": "a76f460c-00b5-48f1-b4d9-c69e68ae11bd",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 14,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "6438363e-7959-4948-8fbf-0d0b88d3afb8",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 79,
+        "score": "PASS"
+    },
+    {
+        "studentId": "319f0e38-647b-4fde-b6c7-ade16552c021",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 30,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "f4279a0e-cb27-44d1-bc1f-bb1bb170a97d",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 33,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "9db30942-c6ec-4286-9aa7-dd5da63ed161",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 26,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "9b686017-8fa6-4ae7-a75f-7dc44b9010c8",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 70,
+        "score": "PASS"
+    },
+    {
+        "studentId": "98c7fc2e-a657-4511-88f2-6ab81653fa63",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 83,
+        "score": "PASS"
+    },
+    {
+        "studentId": "9feaccf4-bf2b-4f69-bfe2-b1042f7e46ff",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 64,
+        "score": "PASS"
+    },
+    {
+        "studentId": "98401a0a-f6c1-4672-8b11-76dd9e93b745",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 49,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "a08ae525-e3e7-4ef7-a002-0156cf5c63df",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 37,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "62df6c28-e85a-4971-bc33-4422f529ff11",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 42,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "c6190399-ac7f-4b35-a92f-9f8f7fb0dd40",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 45,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "310eab62-06f5-4a57-9572-2bd5ea91e42e",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 88,
+        "score": "PASS"
+    },
+    {
+        "studentId": "f51badf1-1a88-4f14-b95d-d2d968c3df95",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 36,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "540d9a08-1dd4-46b3-bad0-021ccede8c73",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 44,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "bf34cecd-f5a4-4a64-89be-cc0cf58197cc",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 77,
+        "score": "PASS"
+    },
+    {
+        "studentId": "d85bf9de-2af3-40ae-87c1-698e242b57fd",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 58,
+        "score": "PASS"
+    },
+    {
+        "studentId": "3cb9bcd3-61fe-40ae-9bcb-d3cfa65cf548",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 39,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "ba32a9c2-c50b-4355-ad61-a6ae1468f9e0",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 29,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "8ee92ded-4b3b-4e03-8db2-85e7feed9f74",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 79,
+        "score": "PASS"
+    },
+    {
+        "studentId": "7211aac2-3680-448e-98e5-9e7344f1da0b",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 76,
+        "score": "PASS"
+    },
+    {
+        "studentId": "7edb70b1-5365-4b5e-964c-9501c8943a7c",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 63,
+        "score": "PASS"
+    },
+    {
+        "studentId": "3700e5f4-40c0-4745-bf03-039385cd648f",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 2,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "edb889b3-0594-4c44-8b35-674924c2539b",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 88,
+        "score": "PASS"
+    },
+    {
+        "studentId": "475e6e23-64a0-45a8-b38e-50590053e019",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 46,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "08559342-f3f6-4683-8416-13d78de2463e",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 52,
+        "score": "PASS"
+    },
+    {
+        "studentId": "215e88fe-1ac4-4f47-a8e7-62f8d889b27b",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 46,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "75c4a179-61bb-493a-8306-5f508129132b",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 95,
+        "score": "PASS"
+    },
+    {
+        "studentId": "68bda26a-24b9-48ca-b2f1-1d4e47443442",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 45,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "c036f435-bead-4457-9111-8963722bec7f",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 3,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "5ccb37e6-68ed-4871-a31f-30bb0de50f11",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 65,
+        "score": "PASS"
+    },
+    {
+        "studentId": "c89e4afe-734e-4e50-8fda-694a4fb5586e",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 1,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "93a1ecf0-c7ca-4051-9e6e-d3d0818cc524",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 79,
+        "score": "PASS"
+    },
+    {
+        "studentId": "793889f3-fd6e-4ab2-9846-9069a7dad068",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 45,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "abf0b74b-a88e-48ce-ba37-6bde05384a20",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 32,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "974141cf-ea9d-4d35-935f-235f4f70c613",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 9,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "0da761a0-1695-4408-ad95-f15ef13a5617",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 91,
+        "score": "PASS"
+    },
+    {
+        "studentId": "6ac2486c-8231-48ee-945f-96cffa6aaac7",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 98,
+        "score": "PASS"
+    },
+    {
+        "studentId": "b9ca819c-dcfa-462f-93bc-3f4b25d6929c",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 48,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "51930133-1221-4869-a90c-c2cd53e912e8",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 36,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "5ffc84e4-6f5b-4d8a-85cb-5641062bcc20",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 4,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "7355b107-8c55-4c89-9727-1d9beabbb032",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 73,
+        "score": "PASS"
+    },
+    {
+        "studentId": "fbc614d7-d053-4dd8-8740-8d0dfc15a3b4",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 46,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "458f7af5-146f-4129-ac93-5c30692a49b0",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 23,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "62789f62-b431-47a5-b982-a48b705e24e0",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 29,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "db3cf14e-c280-4d50-917b-4661b90c3ba5",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 67,
+        "score": "PASS"
+    },
+    {
+        "studentId": "ac06975f-08fc-40c9-8a66-ffe8b038ef83",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 60,
+        "score": "PASS"
+    },
+    {
+        "studentId": "34691474-48e2-4790-b9d2-4dda3f949ee9",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 3,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "29d80014-2984-449d-9340-886a940201b7",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 68,
+        "score": "PASS"
+    },
+    {
+        "studentId": "30a52d76-5154-493d-8785-a4b91bd09022",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 74,
+        "score": "PASS"
+    },
+    {
+        "studentId": "360bba62-e343-494c-ae02-21ad5f008b05",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 17,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "6755f46f-a089-491d-a4b1-0acbcabbed3b",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 40,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "edaf5cf2-2965-43a2-ab47-cd917300c609",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 19,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "6de3c2dd-99a3-4891-ae19-2b7fc7ace902",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 38,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "320fac2f-193d-440c-8727-24a05a8d0836",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 13,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "fef03a54-1d1c-4507-aaec-bc1c5a4fbab8",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 52,
+        "score": "PASS"
+    },
+    {
+        "studentId": "4eed7235-d9d4-4b8b-9e86-a574a810eb46",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 54,
+        "score": "PASS"
+    },
+    {
+        "studentId": "a2ded5ae-5b81-4d6e-a017-db036945b455",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 2,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "931450fa-e4c4-43a6-8323-1a7df1f7ecca",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 75,
+        "score": "PASS"
+    },
+    {
+        "studentId": "4e7fb202-d223-4012-9c2e-ea18b9a6c879",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 28,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "f9855aea-786a-4ee0-a8c5-20a1924f7d53",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 55,
+        "score": "PASS"
+    },
+    {
+        "studentId": "f0c4644f-c09b-4c37-b0cd-0839a2e71507",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 6,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "b58bf5cc-85eb-46b0-a1bf-8f3899bbd9c7",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 51,
+        "score": "PASS"
+    },
+    {
+        "studentId": "6cef0deb-1e8d-40eb-8624-a6c79956f2df",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 88,
+        "score": "PASS"
+    },
+    {
+        "studentId": "ce87a4a8-174a-45b8-8ed9-2f54607b7f85",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 74,
+        "score": "PASS"
+    },
+    {
+        "studentId": "f09814d6-93a2-4da8-98fc-b625208d918c",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 24,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "90d40323-e87b-44c5-b068-5b311715bc79",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 93,
+        "score": "PASS"
+    },
+    {
+        "studentId": "7d63320a-baf6-4680-b9c7-0c242c503edd",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 24,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "adc5ae81-c916-49fb-89e8-f31a77a13058",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 15,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "a0198756-5a03-478b-9fbe-5b13077fadfb",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 36,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "160811f7-cd3f-492e-858f-5e18c1df7a59",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 80,
+        "score": "PASS"
+    },
+    {
+        "studentId": "7e20035f-d08f-4814-b349-d31bbf6eb030",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 76,
+        "score": "PASS"
+    },
+    {
+        "studentId": "3f647af5-8b7f-4389-8dea-554702c01eb3",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 38,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "bbee5869-7319-4d00-a14c-dcd25dbbdf60",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 22,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "273e3d93-90f0-4336-bdcc-fcee66abaf26",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 3,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "a8aeb596-9568-4dd8-8a5a-7f641c9c4bbf",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 50,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "d78ec8b5-f61e-4a79-a832-4a59b487af85",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 36,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "08ab875e-fc5b-40d4-9035-34e59174ac70",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 72,
+        "score": "PASS"
+    },
+    {
+        "studentId": "35063e2f-421c-4fd4-b795-9771ceb0dbb6",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 32,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "572f462a-509f-45f5-bce2-3c0de9878adb",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 41,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "85bf2f2a-088f-4ea9-ac38-b2f1c2c123dc",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 54,
+        "score": "PASS"
+    },
+    {
+        "studentId": "11aa438d-b88a-4a6f-b8d5-385de9f54820",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 41,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "80a9d8f5-4f2f-408d-aae9-c08a7908f049",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 45,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "ee5f41f8-9903-4111-bad2-ccba6c7e356a",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 25,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "56f1d9bd-abd8-45b2-b985-52e1ad4ac9e0",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 75,
+        "score": "PASS"
+    },
+    {
+        "studentId": "3440b95a-f30b-4553-86aa-55ba1113119c",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 49,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "25c628dd-f9bc-461d-ba44-cbf0e11d9ede",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 7,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "da167518-313d-4a6c-9cf4-428820366f0f",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 50,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "74eab6e7-72b2-4698-ac1b-4d17ef523307",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 80,
+        "score": "PASS"
+    },
+    {
+        "studentId": "1561eb11-0e03-4076-ab28-5864132c3046",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 99,
+        "score": "PASS"
+    },
+    {
+        "studentId": "1f140bd6-b7d4-405a-b8b0-f2c1fccc7332",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 73,
+        "score": "PASS"
+    },
+    {
+        "studentId": "0f7fbb14-c9ad-42a1-9b20-55439feae7a1",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 70,
+        "score": "PASS"
+    },
+    {
+        "studentId": "9b588cbe-7397-42c2-95d8-cd7d949cdfad",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 66,
+        "score": "PASS"
+    },
+    {
+        "studentId": "21ffe925-5aab-41ab-9f41-ba99e840a35a",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 93,
+        "score": "PASS"
+    },
+    {
+        "studentId": "3271d571-0226-4848-a353-533357174c75",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 47,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "5eed5983-0812-454b-b651-bc880d337a33",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 60,
+        "score": "PASS"
+    },
+    {
+        "studentId": "bb052615-133f-4de1-8473-f04e443f7de3",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 58,
+        "score": "PASS"
+    },
+    {
+        "studentId": "25d1cba0-80ec-4bc8-81cd-03d372c4f0b9",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 19,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "3dcf2817-dc09-4324-846d-f505ef074b8c",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 81,
+        "score": "PASS"
+    },
+    {
+        "studentId": "78cfd750-6d09-4478-add1-9596b4491b25",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 19,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "a4a8ecba-1d23-431f-883c-3fb5ce297133",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 81,
+        "score": "PASS"
+    },
+    {
+        "studentId": "4b049948-7db5-4897-9fc2-2f2ca03eae16",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 44,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "947ac291-4000-4159-85b1-96e102d83405",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 88,
+        "score": "PASS"
+    },
+    {
+        "studentId": "2bf774cd-4055-4ddb-8d22-f4333169c0c0",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 100,
+        "score": "PASS"
+    },
+    {
+        "studentId": "6716ead3-fb38-4030-a5e4-f33aafc2d458",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 77,
+        "score": "PASS"
+    },
+    {
+        "studentId": "01028207-bb37-4f84-8463-fa286c11447c",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 61,
+        "score": "PASS"
+    },
+    {
+        "studentId": "d4043944-68f4-4a8b-a299-61cb60ac8596",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 2,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "d4ffbe12-bcc2-4755-b53e-cf554da8d15d",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 57,
+        "score": "PASS"
+    },
+    {
+        "studentId": "4bbd9037-b9c6-4f43-8548-942d023823b0",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 9,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "330b6630-7358-437b-b67e-4ef1a81b3e4c",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 89,
+        "score": "PASS"
+    },
+    {
+        "studentId": "fc960c39-4e33-4a80-9f17-9e0f1f12da46",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 93,
+        "score": "PASS"
+    },
+    {
+        "studentId": "c0239fd6-ee17-4912-87f6-1846c84ef161",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 39,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "15f44331-b606-450b-96d5-579b869b6be4",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 24,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "4b055cbd-a47f-4a2e-97f3-a230ca851168",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 56,
+        "score": "PASS"
+    },
+    {
+        "studentId": "ce5fbc30-7201-4bd8-8c33-2ecc0acb49d6",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 20,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "08e0f65a-80fc-47a5-8863-ea7ad4870e06",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 8,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "90aa7cdf-d8c6-45c2-9366-d9cee24b522b",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 48,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "6a1b40ab-2ce4-423f-a530-7e6fdcb0a70f",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 33,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "4d4b6ad2-fba5-4597-b037-9d293ccaaeef",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 31,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "dc8d6482-3b0b-4684-92d8-3cb3841d767e",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 75,
+        "score": "PASS"
+    },
+    {
+        "studentId": "8f6b21cb-b3ae-4cbe-aca2-9741c5fac530",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 42,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "414f1abc-fc26-4b94-aab5-583595bf9c20",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 3,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "621474ad-a80e-4b5d-9bb9-061edac0b9d5",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 49,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "a6cf365f-4054-46ef-a078-27ca563d78d7",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 23,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "19c78998-d8a7-42c2-809a-1d050b42f6f1",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 8,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "75db01ec-e056-4c2f-851d-492355f5e513",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 81,
+        "score": "PASS"
+    },
+    {
+        "studentId": "d677c88f-f4f3-4347-a445-a5f951a483af",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 79,
+        "score": "PASS"
+    },
+    {
+        "studentId": "b7d2ed82-0b59-496b-ad7b-0b4d1ddb5a18",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 6,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "26bc99e7-c8b3-4d71-80dd-852b00239d14",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 22,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "581842ad-a020-4d17-b8d3-2d738968c172",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 24,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "4b50acec-41af-425b-ad99-ee0b157d696f",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 39,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "def128c0-ef79-4b81-9671-658fd12bdb0e",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 82,
+        "score": "PASS"
+    },
+    {
+        "studentId": "79f657d8-bfcd-481d-975c-a7ab91963d35",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 35,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "0e7272eb-e9f1-4dcb-9f2b-2fb9a70f764c",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 47,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "a502b993-574f-4339-8db9-43a99bd92baa",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 23,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "4851078e-69c1-42a7-8f3c-4f8acf1537d5",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 75,
+        "score": "PASS"
+    },
+    {
+        "studentId": "de74e288-3b92-492d-8b62-17a8d05c0106",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 10,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "3b23d74c-8982-41c1-abb1-3807a54c7e60",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 36,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "e059bb13-2e10-4057-9ff1-de1d8032e8df",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 100,
+        "score": "PASS"
+    },
+    {
+        "studentId": "1c3c2056-8ceb-4185-bde7-277b878b1453",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 4,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "783e5141-f75b-468b-b78d-eb5e4b4b5b64",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 68,
+        "score": "PASS"
+    },
+    {
+        "studentId": "fe592a9d-2036-4a60-af70-dc22cfd400a0",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 62,
+        "score": "PASS"
+    },
+    {
+        "studentId": "196be63a-6c34-4f50-b850-a38050ba06cf",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 22,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "7535abd3-c6a5-429b-be89-e1b9252ec9de",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 42,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "cb3afc1a-366f-44bd-8824-94b273c9ef88",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 3,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "c6d6d2c7-eca9-451a-97bb-e7cb62c6165e",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 14,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "d4b135a1-0805-497d-9467-8cfd058354e3",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 14,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "3f3dfd63-d38d-4fbb-b81a-cf5d446014ed",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 93,
+        "score": "PASS"
+    },
+    {
+        "studentId": "0b5fb237-1678-4e2f-897e-462ea68889a6",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 54,
+        "score": "PASS"
+    },
+    {
+        "studentId": "f1761ad8-defb-43fc-a57d-0ff6fc627da2",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 48,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "3f525355-7b6d-4521-a343-e3b0adc0666b",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 83,
+        "score": "PASS"
+    },
+    {
+        "studentId": "a3e4528f-9f99-4619-9eed-bcba97edce6e",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 37,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "432c25b2-c33b-48e3-ae48-87eeba2b85ac",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 34,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "092beb0f-cb43-4b53-8989-a075fcc87fec",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 33,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "2f60f2c3-a888-41e3-a264-2a5ebfe17f4d",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 85,
+        "score": "PASS"
+    },
+    {
+        "studentId": "b84f05c2-f7e5-4711-90cd-a8874273ea23",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 41,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "1a0fcf5c-b2ec-4caa-a269-7838337065b8",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 81,
+        "score": "PASS"
+    },
+    {
+        "studentId": "fbd27cc1-bb12-4678-a0e0-74f076fb628b",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 32,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "5ba3a989-b539-4922-9608-d9d3b281b636",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 18,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "08252c17-b05d-43b5-bbcf-536daabda759",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 25,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "648c6efb-96dd-4185-8f12-f983247a8b09",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 49,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "6a4617eb-0a0a-40ff-8fad-7a802f12ff10",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 77,
+        "score": "PASS"
+    },
+    {
+        "studentId": "b5fb34f1-9b17-4391-81f7-e1ee7ef9f715",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 87,
+        "score": "PASS"
+    },
+    {
+        "studentId": "d8a7dc87-49fa-4351-81b1-2ec2f4b17301",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 40,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "4a82ddd0-bee3-4e4a-b918-b0d6d6c87e6d",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 13,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "5d223ffc-5d93-49a7-a285-84cb9a8229b0",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 14,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "238288f1-3974-4680-b7a7-0dc83bf2ff59",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 34,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "51980629-d6dc-4ea4-8997-26d6348b535f",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 31,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "98482138-9ff5-494a-a68b-a4f97b44f70a",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 49,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "50ca7023-2f4d-4cec-97e2-3c86dd1a49f2",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 76,
+        "score": "PASS"
+    },
+    {
+        "studentId": "cdbc7cff-52d6-416a-b68b-4b7d2bcdd212",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 58,
+        "score": "PASS"
+    },
+    {
+        "studentId": "5596f615-822d-47da-95b2-6d602b6c1a88",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 19,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "7055cfc1-5055-4bdf-94b6-1da92f5a509b",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 43,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "09133982-1d1e-4578-a0ec-3cef33b3f960",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 30,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "329e6bb5-ffe6-4cad-8558-42d70bd71c64",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 74,
+        "score": "PASS"
+    },
+    {
+        "studentId": "08195e37-c229-4ebb-9457-80b17ec82b39",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 62,
+        "score": "PASS"
+    },
+    {
+        "studentId": "9fe7c730-1f7c-4908-b449-1685742139eb",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 39,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "c9db929e-511f-44e0-bc0a-f51b4009b9ae",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 10,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "ca662bb5-622e-4b39-8f2b-c5d48b13e60b",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 19,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "cae3ee1b-2061-4144-a77b-d89a46e7d014",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 2,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "cb4b512d-7386-40af-b0f9-82656de32862",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 5,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "9b5b6d22-a546-49b0-a290-56d792ca0070",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 12,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "72fca229-edb6-4b05-93b0-9783c8415c19",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 40,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "79ed64ca-3ebc-4ef2-bfef-ee5a5427bcb0",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 3,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "cf7f5f7e-c31e-410d-9ecd-7197e6aaa773",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 63,
+        "score": "PASS"
+    },
+    {
+        "studentId": "fdfee19a-7e2a-48d9-bb99-987884e00989",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 24,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "772d959f-260f-4465-96a4-1fa870853993",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 42,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "09fd506b-1c0a-46dd-b5bb-717280f31da3",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 4,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "6f2a90a9-19c8-459b-a688-2282a6cbfd1c",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 100,
+        "score": "PASS"
+    },
+    {
+        "studentId": "7d278390-4de6-4f55-8442-12daaf09398c",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 51,
+        "score": "PASS"
+    },
+    {
+        "studentId": "6a7b5ef4-a73a-44cb-9673-3ff1257bc989",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 1,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "8831115c-9e5c-4692-870a-a7c56517d643",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 49,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "fe82c00d-1c70-4923-8530-48ad81e940bf",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 22,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "c8f7e2e6-d5e4-4732-8a5c-e9c722b93c7a",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 93,
+        "score": "PASS"
+    },
+    {
+        "studentId": "f3d3c27c-bb77-4e24-b67d-61ef696d1403",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 15,
+        "score": "FAIL"
+    },
+    {
+        "studentId": "eebe48e6-a4a8-4e15-b787-c9d5db662b27",
+        "courseId": "ELC2021",
+        "teacherName": "osama",
+        "grade": 40,
+        "score": "FAIL"
+    }
+]

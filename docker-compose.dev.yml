@@ -1,0 +1,36 @@
+version: "3.8"
+
+services:
+  api: 
+    depends_on: 
+      - db
+      - redis
+    build: 
+      context: .
+      dockerfile: Dockerfile.dev
+    ports: 
+      - 3000:3000
+    environment: 
+      NODE_ENV: docker
+    volumes:
+      - ./:/app
+      - /app/node_modules  #workarounf for bcrypt lib issue due to different os platforms (docker,host)
+    command: ./docker-entrypoint.sh
+
+
+  redis:
+    image: redis:latest
+    restart: always
+   
+    ports:
+      - 6379:6379
+
+  db:
+    image: mongo:4.0-xenial
+    ports:
+      - 27017:27017
+    volumes:
+      - studentGrades:/data/db
+
+volumes:
+  studentGrades:

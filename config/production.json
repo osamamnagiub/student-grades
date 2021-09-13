@@ -1,0 +1,9 @@
+{
+    "appPort": 3000,
+    "queueName": "grades-queue",
+    "concurrency": 3,
+    "email": {
+        "from": "osama.mn@live.com"
+    }
+
+}

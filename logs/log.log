@@ -1,0 +1,325 @@
+{"message":"worker listening for jobs","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/studentGrades","level":"info"}
+{"message":"worker listening for jobs","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"\"name\" length must be at least 5 characters long","level":"error"}
+{"message":"worker listening for jobs","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"worker listening for jobs","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://db/studentGrades","level":"info"}
+{"message":"worker listening for jobs","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://db/studentGrades","level":"info"}
+{"message":"worker listening for jobs","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://db/studentGrades","level":"info"}
+{"message":"worker listening for jobs","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://db/studentGrades","level":"info"}
+{"message":"worker listening for jobs","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://db/studentGrades","level":"info"}
+{"message":"worker listening for jobs","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://db/studentGrades","level":"info"}
+{"message":"worker listening for jobs","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://db/studentGrades","level":"info"}
+{"message":"worker listening for jobs","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://db/studentGrades","level":"info"}
+{"message":"worker listening for jobs","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://db/studentGrades","level":"info"}
+{"message":"worker listening for jobs","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://db/studentGrades","level":"info"}
+{"message":"worker listening for jobs","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://db/studentGrades","level":"info"}
+{"message":"worker listening for jobs","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://db/studentGrades","level":"info"}
+{"message":"worker listening for jobs","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://db/studentGrades","level":"info"}
+{"message":"worker listening for jobs","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://db/studentGrades","level":"info"}
+{"message":"worker listening for jobs","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/studentGrades","level":"info"}
+{"message":"Failed job 424 with Error: file not found","level":"info"}
+{"message":"Connected to mongodb://localhost/studentGrades","level":"info"}
+{"message":"Failed job 425 with Error: file not found","level":"info"}
+{"message":"worker listening for jobs","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/studentGrades","level":"info"}
+{"message":"Failed job 426 with Error: file not found","level":"info"}
+{"message":"Connected to mongodb://localhost/studentGrades","level":"info"}
+{"message":"Failed job 427 with Error: file not found","level":"info"}
+{"message":"worker listening for jobs","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/studentGrades","level":"info"}
+{"message":"Failed job 428 with Error: file not found","level":"info"}
+{"message":"Connected to mongodb://localhost/studentGrades","level":"info"}
+{"message":"Failed job 429 with Error: file not found","level":"info"}
+{"message":"worker listening for jobs","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/studentGrades","level":"info"}
+{"message":"Connected to mongodb://localhost/studentGrades","level":"info"}
+{"message":"Completed job 430 successfully","level":"info"}
+{"message":"worker listening for jobs","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/studentGrades","level":"info"}
+{"message":"Connected to mongodb://localhost/studentGrades","level":"info"}
+{"message":"Completed job 431 successfully","level":"info"}
+{"message":"Completed job 432 successfully","level":"info"}
+{"message":"worker listening for jobs","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"worker listening for jobs","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"worker listening for jobs","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://db/studentGrades","level":"info"}
+{"message":"Connected to mongodb://db/studentGrades","level":"info"}
+{"message":"Completed job 1 successfully","level":"info"}
+{"message":"worker listening for jobs","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://db/studentGrades","level":"info"}
+{"message":"worker listening for jobs","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://db/studentGrades","level":"info"}
+{"message":"worker listening for jobs","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://db/studentGrades","level":"info"}
+{"message":"Connected to mongodb://db/studentGrades","level":"info"}
+{"message":"Completed job 1 successfully","level":"info"}
+{"message":"worker listening for jobs","level":"info"}
+{"message":"Connected to mongodb://db/studentGrades","level":"info"}
+{"message":"worker listening for jobs","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://db/studentGrades","level":"info"}
+{"message":"worker listening for jobs","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://db/studentGrades","level":"info"}
+{"message":"worker listening for jobs","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://db/studentGrades","level":"info"}
+{"message":"worker listening for jobs","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://db/studentGrades","level":"info"}
+{"message":"worker listening for jobs","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://db/studentGrades","level":"info"}
+{"message":"worker listening for jobs","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://db/studentGrades","level":"info"}
+{"message":"worker listening for jobs","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://db/studentGrades","level":"info"}
+{"message":"Access denied. no token provided","level":"error"}
+{"message":"Connected to mongodb://db/studentGrades","level":"info"}
+{"message":"Completed job 1 successfully","level":"info"}
+{"message":"Failed job 2 with Error: to is not defined","level":"info"}
+{"message":"worker listening for jobs","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://db/studentGrades","level":"info"}
+{"message":"Connected to mongodb://db/studentGrades","level":"info"}
+{"message":"Completed job 3 successfully","level":"info"}
+{"message":"worker listening for jobs","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://db/studentGrades","level":"info"}
+{"message":"Connected to mongodb://db/studentGrades","level":"info"}
+{"message":"Completed job 4 successfully","level":"info"}
+{"message":"worker listening for jobs","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://db/studentGrades","level":"info"}
+{"message":"worker listening for jobs","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://db/studentGrades","level":"info"}
+{"message":"worker listening for jobs","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/studentGrades","level":"info"}
+{"message":"Connected to mongodb://localhost/studentGrades","level":"info"}
+{"message":"Completed job 433 successfully","level":"info"}
+{"message":"worker listening for jobs","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/studentGrades","level":"info"}
+{"message":"Connected to mongodb://localhost/studentGrades","level":"info"}
+{"message":"Completed job 434 successfully","level":"info"}
+{"message":"worker listening for jobs","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/studentGrades","level":"info"}
+{"message":"Failed job 435 with Error: Error initializing child: Internal Exception Handler Run-Time Failure and signal null","level":"info"}
+{"message":"worker listening for jobs","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/studentGrades","level":"info"}
+{"message":"Connected to mongodb://localhost/studentGrades","level":"info"}
+{"message":"Preview URL: https://ethereal.email/message/X10VNAfHaE2Q4Y27YT5dzrySCVay4mFJAAADr7qTGpEoVjwAOcqWp88dyHI","level":"info"}
+{"message":"Completed job 436 successfully","level":"info"}
+{"message":"worker listening for jobs","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/studentGrades","level":"info"}
+{"message":"Connected to mongodb://localhost/studentGrades","level":"info"}
+{"message":"Preview URL: https://ethereal.email/message/X10VNAfHaE2Q4Y27YT5ej-18WFanO3Y8AAADsApums2IajUbEuRJoYbKYBM","level":"info"}
+{"message":"Completed job 437 successfully","level":"info"}
+{"message":"worker listening for jobs","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/studentGrades","level":"info"}
+{"message":"job.returnvalue is not a function","level":"error"}
+{"message":"worker listening for jobs","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/studentGrades","level":"info"}
+{"message":"Connected to mongodb://localhost/studentGrades","level":"info"}
+{"message":"Preview URL: https://ethereal.email/message/X10VNAfHaE2Q4Y27YT5fMu18WFanO3ZbAAADsb2UGCPF-DNtH7UnaIVkULA","level":"info"}
+{"message":"worker listening for jobs","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/studentGrades","level":"info"}
+{"message":"Connected to mongodb://localhost/studentGrades","level":"info"}
+{"message":"Preview URL: https://ethereal.email/message/X10VNAfHaE2Q4Y27YT5fyu18WFanO3a8AAADsirZ09Dv8nFmXglfeUFUvuA","level":"info"}
+{"message":"Completed job 439 successfully","level":"info"}
+{"message":"worker listening for jobs","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/studentGrades","level":"info"}
+{"message":"worker listening for jobs","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/studentGrades","level":"info"}
+{"message":"Connected to mongodb://localhost/studentGrades","level":"info"}
+{"message":"Preview URL: https://ethereal.email/message/X10VNAfHaE2Q4Y27YT5gIbySCVay4mJSAAADs11qZNfK3VLCzW4qpAUqpeU","level":"info"}
+{"message":"Completed job 440 successfully","level":"info"}
+{"message":"worker listening for jobs","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/studentGrades","level":"info"}
+{"message":"Connected to mongodb://localhost/studentGrades","level":"info"}
+{"message":"Preview URL: https://ethereal.email/message/X10VNAfHaE2Q4Y27YT5gQrySCVay4mJYAAADtKQEcjzRIDuOJ3hl4lDnIRw","level":"info"}
+{"message":"Completed job 441 successfully","level":"info"}
+{"message":"worker listening for jobs","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/studentGrades","level":"info"}
+{"message":"Connected to mongodb://localhost/studentGrades","level":"info"}
+{"message":"Preview URL: https://ethereal.email/message/X10VNAfHaE2Q4Y27YT5g0u18WFanO3cKAAADte6PM7ZHjDYZFU5QZfNsdwI","level":"info"}
+{"message":"Completed job 442 successfully","level":"info"}
+{"message":"Connected to mongodb://localhost/studentGrades","level":"info"}
+{"message":"worker listening for jobs","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/studentGrades","level":"info"}
+{"message":"worker listening for jobs","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/studentGrades","level":"info"}
+{"message":"worker listening for jobs","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://db/studentGrades","level":"info"}
+{"message":"worker listening for jobs","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://db/studentGrades","level":"info"}
+{"message":"Connected to mongodb://db/studentGrades","level":"info"}
+{"message":"Preview URL: https://ethereal.email/message/X10VNAfHaE2Q4Y27YT5k9O18WFanO3hkAAADtusK0qRWc7L6ie9TRz7ebBI","level":"info"}
+{"message":"Completed job 1 successfully","level":"info"}
+{"message":"invalid student id","level":"error"}
+{"message":"worker listening for jobs","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/studentGrades","level":"info"}
+{"message":"courseId must be in the form of ex: ELC2021, ATB2020","level":"error"}
+{"message":"invalid student id","level":"error"}
+{"message":"student grade was not found","level":"error"}
+{"message":"worker listening for jobs","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/studentGrades","level":"info"}
+{"message":"Access denied. no token provided","level":"error"}
+{"message":"invalid token","level":"error"}
+{"message":"courseId must be in the form of ex: ELC2021, ATB2020","level":"error"}
+{"message":"Access denied. no token provided","level":"error"}
+{"message":"invalid file, make sure file is a csv file","level":"error"}
+{"message":"invalid email","level":"error"}
+{"message":"worker listening for jobs","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/studentGrades","level":"info"}
+{"message":"\"username\" is not allowed to be empty","level":"error"}
+{"message":"\"name\" is not allowed to be empty","level":"error"}
+{"message":"\"password\" is not allowed to be empty","level":"error"}
+{"message":"\"username\" length must be at least 5 characters long","level":"error"}
+{"message":"\"password\" length must be at least 5 characters long","level":"error"}
+{"message":"teacher already registered","level":"error"}
+{"message":"worker listening for jobs","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/studentGrades","level":"info"}
+{"message":"Connected to mongodb://localhost/studentGrades","level":"info"}
+{"message":"\"username\" is not allowed to be empty","level":"error"}
+{"message":"\"password\" is not allowed to be empty","level":"error"}
+{"message":"invalid username or password","level":"error"}
+{"message":"invalid username or password","level":"error"}
+{"message":"invalid username or password","level":"error"}
+{"message":"worker listening for jobs","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Access denied. no token provided","level":"error"}
+{"message":"Connected to mongodb://localhost/studentGrades","level":"info"}
+{"message":"Preview URL: https://ethereal.email/message/X10VNAfHaE2Q4Y27YT9Ev7ySCVay4vPzAAADuOeN04DO9sUPYrTFuCve194","level":"info"}
+{"message":"Completed job 443 successfully","level":"info"}
+{"message":"worker listening for jobs","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/studentGrades","level":"info"}
+{"message":"worker listening for jobs","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Access denied. no token provided","level":"error"}
+{"message":"Connected to mongodb://localhost/studentGrades","level":"info"}
+{"message":"job not found","level":"error"}
+{"message":"worker listening for jobs","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/studentGrades","level":"info"}
+{"message":"\"username\" is not allowed to be empty","level":"error"}
+{"message":"\"password\" is not allowed to be empty","level":"error"}
+{"message":"invalid username or password","level":"error"}
+{"message":"invalid username or password","level":"error"}
+{"message":"invalid username or password","level":"error"}
+{"message":"worker listening for jobs","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/studentGrades","level":"info"}
+{"message":"Access denied. no token provided","level":"error"}
+{"message":"invalid token","level":"error"}
+{"message":"courseId must be in the form of ex: ELC2021, ATB2020","level":"error"}
+{"message":"Access denied. no token provided","level":"error"}
+{"message":"invalid file, make sure file is a csv file","level":"error"}
+{"message":"invalid email","level":"error"}
+{"message":"worker listening for jobs","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/studentGrades","level":"info"}
+{"message":"\"username\" is not allowed to be empty","level":"error"}
+{"message":"\"name\" is not allowed to be empty","level":"error"}
+{"message":"\"password\" is not allowed to be empty","level":"error"}
+{"message":"\"username\" length must be at least 5 characters long","level":"error"}
+{"message":"\"password\" length must be at least 5 characters long","level":"error"}
+{"message":"teacher already registered","level":"error"}
+{"message":"Connected to mongodb://localhost/studentGrades","level":"info"}
+{"message":"worker listening for jobs","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/studentGrades","level":"info"}
+{"message":"courseId must be in the form of ex: ELC2021, ATB2020","level":"error"}
+{"message":"invalid student id","level":"error"}
+{"message":"student grade was not found","level":"error"}
+{"message":"Preview URL: https://ethereal.email/message/X10VNAfHaE2Q4Y27YT9F-7ySCVay4vU4AAADvGWxZ9lOfcz4GZG3cNeF.zk","level":"info"}
+{"message":"Completed job 447 successfully","level":"info"}
+{"message":"worker listening for jobs","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/studentGrades","level":"info"}
+{"message":"worker listening for jobs","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://db/studentGrades","level":"info"}
+{"message":"worker listening for jobs","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://db/studentGrades","level":"info"}
+{"message":"worker listening for jobs","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://db/studentGrades","level":"info"}
+{"message":"worker listening for jobs","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://db/studentGrades","level":"info"}
+{"message":"worker listening for jobs","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://db/studentGrades","level":"info"}
+{"message":"Connected to mongodb://db/studentGrades","level":"info"}
+{"message":"Preview URL: https://ethereal.email/message/X10VNAfHaE2Q4Y27YT9KoO18WFanPBGPAAADwJ7.otO99Oa1FH2TkOYT4ag","level":"info"}
+{"message":"Completed job 1 successfully","level":"info"}
+{"message":"invalid student id","level":"error"}

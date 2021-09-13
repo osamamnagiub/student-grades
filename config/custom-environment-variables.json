@@ -1,0 +1,6 @@
+{
+    "jwtPrivateKey": "studentGrades_jwtPrivateKey",
+    "db" : "DB_URL",
+    "redicConnection": "redisConnection",
+    "smtp": "smtp"
+}

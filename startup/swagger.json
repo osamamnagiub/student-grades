@@ -1,0 +1,333 @@
+{
+  "openapi": "3.0.0",
+  "info": {
+    "description": "This is a simple api to allow teachers to upload grades for a course and view all grades, allow as well students to see their grades\n",
+    "version": "1.0.0",
+    "title": "Swagger Student Grades",
+    "contact": {
+      "email": "osama.mn@live.com"
+    },
+    "license": {
+      "name": "Apache 2.0",
+      "url": "http://www.apache.org/licenses/LICENSE-2.0.html"
+    }
+  },
+  "servers": [
+    {
+      "url": "http://localhost:3000"
+    }
+  ],
+  "tags": [
+    {
+      "name": "student grades"
+    }
+  ],
+  "paths": {
+    "/api/teacher": {
+      "post": {
+        "tags": [
+          "teacher"
+        ],
+        "summary": "create a teacher account",
+        "operationId": "createTeacher",
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "type": "object",
+                "properties": {
+                  "name": {
+                    "type": "string",
+                    "format": "string"
+                  },
+                  "username": {
+                    "type": "string",
+                    "format": "string"
+                  },
+                  "password": {
+                    "type": "string",
+                    "format": "string"
+                  }
+                }
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "success"
+          },
+          "400": {
+            "description": "Invalid input"
+          }
+        }
+      }
+    },
+    "/api/login": {
+      "post": {
+        "tags": [
+          "login"
+        ],
+        "summary": "login to the api",
+        "operationId": "login",
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "type": "object",
+                "properties": {
+                  "username": {
+                    "type": "string",
+                    "format": "string"
+                  },
+                  "password": {
+                    "type": "string",
+                    "format": "string"
+                  }
+                }
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "success"
+          },
+          "400": {
+            "description": "invalid input"
+          }
+        }
+      }
+    },
+    "/api/status/{jobid}": {
+      "get": {
+        "security": [
+          {
+            "ApiKeyAuth": []
+          }
+        ],
+        "tags": [
+          "upload status"
+        ],
+        "summary": "Get status and progrss report",
+        "description": "Get status and progress update of uploaded documents ",
+        "operationId": "getStatus",
+        "parameters": [
+          {
+            "name": "jobid",
+            "in": "path",
+            "description": "job id to check",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int64"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "success",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object",
+                  "properties": {
+                    "id": {
+                      "type": "integer",
+                      "format": "int32"
+                    },
+                    "state": {
+                      "type": "string",
+                      "format": "string"
+                    },
+                    "progress": {
+                      "type": "integer",
+                      "format": "int32"
+                    },
+                    "error": {
+                      "type": "string",
+                      "format": "string"
+                    },
+                    "emailInfo": {
+                      "type": "object",
+                      "properties": {
+                        "sentTo": {
+                          "type": "string",
+                          "format": "string"
+                        },
+                        "previewUrl": {
+                          "type": "string",
+                          "format": "string"
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "400": {
+            "description": "Invalid input"
+          },
+          "422": {
+            "description": "invalid file"
+          }
+        }
+      }
+    },
+    "/api/courses/{courseId}/grades/": {
+      "get": {
+        "security": [
+          {
+            "ApiKeyAuth": []
+          }
+        ],
+        "tags": [
+          "courses"
+        ],
+        "summary": "Get grade for a specific course",
+        "description": "Return grades for a course",
+        "operationId": "getCourseGrades",
+        "parameters": [
+          {
+            "name": "courseId",
+            "in": "path",
+            "description": "course id",
+            "required": true,
+            "schema": {
+              "type": "string",
+              "format": "string"
+            }
+          },
+          {
+            "name": "page",
+            "in": "query",
+            "description": "page number",
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "success"
+          },
+          "400": {
+            "description": "bad request"
+          },
+          "401": {
+            "description": "unauthorized"
+          }
+        }
+      }
+    },
+    "/api/courses/{courseId}/grades/upload": {
+      "post": {
+        "security": [
+          {
+            "ApiKeyAuth": []
+          }
+        ],
+        "tags": [
+          "courses"
+        ],
+        "summary": "upload course grades",
+        "operationId": "uploadFile",
+        "parameters": [
+          {
+            "name": "courseId",
+            "in": "path",
+            "description": "course id",
+            "required": true,
+            "schema": {
+              "type": "string",
+              "format": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "success"
+          },
+          "400": {
+            "description": "bad request"
+          },
+          "401": {
+            "description": "unauthorized"
+          }
+        },
+        "requestBody": {
+          "content": {
+            "multipart/form-data": {
+              "schema": {
+                "type": "object",
+                "properties": {
+                  "file": {
+                    "type": "string",
+                    "format": "binary"
+                  },
+                  "email": {
+                    "type": "string"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/student/{studentId}/grades/{courseId}": {
+      "get": {
+        "tags": [
+          "student"
+        ],
+        "summary": "Get grades for student",
+        "description": "Get grades for a studnet in a specific course",
+        "operationId": "getGrades",
+        "parameters": [
+          {
+            "name": "studentId",
+            "in": "path",
+            "description": "student it",
+            "required": true,
+            "schema": {
+              "type": "string",
+              "format": "string"
+            }
+          },
+          {
+            "name": "courseId",
+            "in": "path",
+            "description": "coruse id",
+            "required": true,
+            "schema": {
+              "type": "string",
+              "format": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "successful operation"
+          },
+          "400": {
+            "description": "Invalid ID supplied"
+          },
+          "404": {
+            "description": "Grade not found"
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "securitySchemes": {
+      "ApiKeyAuth": {
+        "type": "apiKey",
+        "in": "header",
+        "name": "x-auth-token"
+      }
+    }
+  }
+}

@@ -1,0 +1,48 @@
+version: "3.8"
+
+services:
+  api: 
+    depends_on: 
+      - db
+      - redis
+    build: 
+      context: ../
+      dockerfile: Dockerfile
+    ports: 
+      - 3000:3000
+    environment: 
+      # the below env variables should be set on the server and not from docker compose (they are still secrets)
+      # i'm just defining them here to make it easy to build and run the app without having to set them manually
+      NODE_ENV: production
+      DB_URL: mongodb://db/studentGrades
+      studentGrades_jwtPrivateKey: "my-very-strogn-secret-key"
+      redicConnection: "{'host': 'redis','port': '6379'}"
+      smtp: > 
+        {
+           "smtp": {
+              "pool": true,
+              "host": "smtp.ethereal.email",
+              "port": 587,
+              "secure": false,
+              "auth": {
+                  "user": "havk7jm34cnzm7go@ethereal.email",
+                  "pass": "twg8H7veEk3ycRfZGw"
+              }
+          }
+        }
+    command: ./docker-entrypoint.sh
+  
+  redis:
+    image: redis
+    ports:
+      - 6379:6379
+
+  db:
+    image: mongo:4.0-xenial
+    ports:
+      - 27017:27017
+    volumes:
+      - studentGrades:/data/db
+
+volumes:
+  studentGrades:
