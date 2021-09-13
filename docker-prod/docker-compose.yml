@@ -30,7 +30,6 @@ services:
               }
           }
         }
-    command: ./docker-entrypoint.sh
   
   redis:
     image: redis
