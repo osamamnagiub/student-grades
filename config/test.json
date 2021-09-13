@@ -8,15 +8,6 @@
   "email": {
     "from": "osama.mn@live.com"
   },
+  "smtp": "smtp://havk7jm34cnzm7go:twg8H7veEk3ycRfZGw@ethereal.email/?pool=true"
 
-  "smtp": {
-    "pool": true,
-    "host": "smtp.ethereal.email",
-    "port": 587,
-    "secure": false,
-    "auth": {
-      "user": "havk7jm34cnzm7go@ethereal.email",
-      "pass": "twg8H7veEk3ycRfZGw"
-    }
-  }
 }

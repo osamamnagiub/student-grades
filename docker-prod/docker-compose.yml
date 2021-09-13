@@ -17,19 +17,7 @@ services:
       DB_URL: mongodb://db/studentGrades
       studentGrades_jwtPrivateKey: "my-very-strogn-secret-key"
       redis_url: "redis"
-      smtp: > 
-        {
-           "smtp": {
-              "pool": true,
-              "host": "smtp.ethereal.email",
-              "port": 587,
-              "secure": false,
-              "auth": {
-                  "user": "havk7jm34cnzm7go@ethereal.email",
-                  "pass": "twg8H7veEk3ycRfZGw"
-              }
-          }
-        }
+      smtp: "smtp://havk7jm34cnzm7go:twg8H7veEk3ycRfZGw@ethereal.email/?pool=true" 
   
   redis:
     image: redis
