@@ -14,7 +14,7 @@ services:
       NODE_ENV: docker
     volumes:
       - ./:/app
-      - /app/node_modules  #workarounf for bcrypt lib issue due to different os platforms (docker,host)
+      - /app/node_modules  #workaround for bcrypt lib issue due to different os platforms (docker,host)
 
 
   redis:
