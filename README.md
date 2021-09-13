@@ -47,7 +47,7 @@ npm test
 ```
 
 For test coverage report 
-see ``````
+see coverage/lcov-report/index.html
 
 ## Swagger docs
 ```
