@@ -13,6 +13,10 @@ require('./startup/swagger')(app)
 // initialize workers
 require('./startup/worker');
 
+// env to development by default if it is not set
+if (!process.env.NODE_ENV)
+  process.env.NODE_ENV = "development"
+
 const port = process.env.PORT || config.get("appPort");
 const server = app.listen(port, () =>
   logger.info(`Listening on port ${port}...`)
