@@ -46,6 +46,9 @@ Run
 npm test
 ```
 
+For test coverage report 
+see ``````
+
 ## Swagger docs
 ```
 http://localhost:3000
