@@ -33,6 +33,11 @@ the project is shared with the docker instance
 - Install redis 
 - Install MongoDb
 
+Make sure environment variable NODE_ENV is set to "development"
+
+if in windows, run this using powershell ```$env:NODE_ENV="development"```
+if in linux run ```export NODE_ENV=development```
+
 Run
 ```
 node index.js
